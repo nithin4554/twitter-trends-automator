@@ -1,0 +1,41 @@
+name: Daily Trends Scraper & Dashboard Deploy
+
+on:
+  schedule:
+    # Runs at 04:30 UTC (10:00 AM IST) daily
+    - cron: '30 4 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository 📥
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js 🟢
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    - name: Run Scraper Script 🤖
+      run: |
+        node scripts/update_dashboard.js --fetch-cloud-ai
+
+    - name: Commit and Push Database Updates 💾
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add data/trends.json
+        # Commit only if there are changes
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update trends database: $(date -u +'%Y-%m-%d %H:%M:%S')" && git push)
+
+    - name: Deploy to GitHub Pages 🚀
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: . # Deploys the root folder (containing dashboard/ and data/)
+        branch: gh-pages # The branch the action deploys to

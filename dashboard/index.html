@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Twitter & AI Trends Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="logo">
+      <div class="logo-icon">𝕏</div>
+      <span>Trends & AI Daily</span>
+    </div>
+    
+    <!-- Tab controls -->
+    <div class="tabs">
+      <button class="tab-btn active" onclick="switchView('overview')">Overview</button>
+      <button class="tab-btn" onclick="switchView('reader')">One-by-One Reader</button>
+    </div>
+
+    <!-- Date selector badge -->
+    <div class="date-badge" id="dateBadge" onclick="openDatePicker()">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+        <line x1="16" y1="2" x2="16" y2="6"></line>
+        <line x1="8" y1="2" x2="8" y2="6"></line>
+        <line x1="3" y1="10" x2="21" y2="10"></line>
+      </svg>
+      <span id="currentDateText">Loading Date...</span>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <!-- OVERVIEW VIEW -->
+    <div id="overviewSection" class="view-section active">
+      <div class="grid-layout">
+        
+        <!-- Left: AI Trends -->
+        <div class="glass-panel">
+          <h2 class="section-title">
+            <span>🤖 Trending AI News & Articles</span>
+            <span class="badge" id="aiCountBadge">0</span>
+          </h2>
+          <div class="ai-news-list" id="aiNewsContainer">
+            <!-- Dynamic content -->
+          </div>
+        </div>
+
+        <!-- Right: General Trends -->
+        <div class="general-trends-col">
+          <h2 class="section-title">🌐 Top General Trends</h2>
+          <div class="trends-list" id="generalTrendsContainer">
+            <!-- Dynamic content -->
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ONE-BY-ONE READER VIEW -->
+    <div id="readerSection" class="view-section">
+      <div class="reader-container">
+        <!-- Progress Indicators (Instagram style) -->
+        <div class="progress-indicator" id="progressIndicatorContainer">
+          <!-- Dynamic bars -->
+        </div>
+
+        <!-- Reader Card -->
+        <div class="reader-slide-card" id="readerSlideCard">
+          <div class="slide-badge" id="slideIndexBadge">1 of 1</div>
+          
+          <div class="slide-content">
+            <h2 class="slide-title" id="slideTitle">Loading News Title...</h2>
+            <p class="slide-body" id="slideBody">Please wait while the daily trends are loading...</p>
+          </div>
+
+          <div class="slide-footer">
+            <span class="news-tag" id="slideTag">AI News</span>
+            <a href="#" target="_blank" class="slide-action-btn" id="slideActionBtn">
+              <span>View Source</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="7" y1="17" x2="17" y2="7"></line>
+                <polyline points="7" y1="7" x2="17" y2="7" x2="17" y2="17"></polyline>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Controls -->
+        <div class="reader-controls">
+          <button class="control-btn" id="prevBtn" onclick="prevSlide()" aria-label="Previous Slide">
+            <svg viewBox="0 0 24 24"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg>
+          </button>
+          <button class="control-btn" id="nextBtn" onclick="nextSlide()" aria-label="Next Slide">
+            <svg viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>
+          </button>
+        </div>
+        <div class="keyboard-hint">Tip: Use Left & Right Arrow keys on your keyboard to navigate</div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Date Selection Modal -->
+  <div class="datepicker-overlay" id="datePickerOverlay">
+    <div class="datepicker-modal">
+      <div class="datepicker-header">
+        <h3 class="datepicker-title">Select Historical Date</h3>
+        <button class="close-btn" onclick="closeDatePicker()">&times;</button>
+      </div>
+      <div class="date-list" id="dateItemsContainer">
+        <!-- Dynamic buttons -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>Automated Twitter & AI Trends Aggregator &bull; Refreshes daily at 10:00 AM</p>
+  </footer>
+
+  <!-- Script for UI Logic -->
+  <script>
+    // State variables
+    let trendData = [];
+    let selectedRecordIndex = 0;
+    let currentSlideIndex = 0;
+    let activeTab = 'overview';
+
+    // Elements
+    const dateBadgeText = document.getElementById('currentDateText');
+    const aiNewsContainer = document.getElementById('aiNewsContainer');
+    const generalTrendsContainer = document.getElementById('generalTrendsContainer');
+    const aiCountBadge = document.getElementById('aiCountBadge');
+    
+    // Reader Elements
+    const progressContainer = document.getElementById('progressIndicatorContainer');
+    const slideIndexBadge = document.getElementById('slideIndexBadge');
+    const slideTitle = document.getElementById('slideTitle');
+    const slideBody = document.getElementById('slideBody');
+    const slideTag = document.getElementById('slideTag');
+    const slideActionBtn = document.getElementById('slideActionBtn');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    
+    // Modal Elements
+    const dateOverlay = document.getElementById('datePickerOverlay');
+    const dateItemsContainer = document.getElementById('dateItemsContainer');
+
+    // Load Data on Startup
+    window.addEventListener('DOMContentLoaded', async () => {
+      await loadData();
+      
+      // Handle keyboard navigation
+      document.addEventListener('keydown', (e) => {
+        if (activeTab === 'reader') {
+          if (e.key === 'ArrowLeft') prevSlide();
+          if (e.key === 'ArrowRight') nextSlide();
+        }
+      });
+    });
+
+    async function loadData() {
+      try {
+        const response = await fetch('../data/trends.json');
+        if (!response.ok) throw new Error('Data not found');
+        trendData = await response.json();
+        
+        if (trendData.length > 0) {
+          selectedRecordIndex = 0;
+          renderCurrentRecord();
+        } else {
+          renderEmptyState();
+        }
+      } catch (err) {
+        console.error('Failed to load database. Loading fallback/mock data...', err);
+        renderMockData();
+      }
+    }
+
+    function renderMockData() {
+      // Mock data fallback
+      trendData = [
+        {
+          date: "2026-06-23",
+          timestamp: "10:00 AM",
+          general_trends: ["Giannis", "Haaland", "Randle", "Noruega", "Messi", "Norway", "Senegal", "Mbappe", "Celtics", "Jungkook"],
+          ai_trends: [
+            {
+              title: "Gemini 3.5 Flash Released",
+              summary: "Google DeepMind announced new enhancements to Gemini 3.5 Flash, showing massive improvements in speed, responsiveness, and multi-agent coordination. Developers on Twitter are showcasing autonomous workflows.",
+              url: "https://x.com"
+            },
+            {
+              title: "Claude 3.5 Sonnet Integration in Coding Tools",
+              summary: "SaaS coding agents are fully adopting Claude 3.5 Sonnet. User evaluations on X note it outperforms GPT-4o in large multi-file edits, though code review accuracy requires human verification.",
+              url: "https://x.com"
+            },
+            {
+              title: "Llama 4 Training Rumors",
+              summary: "Rumors circulating about Llama 4 clusters indicate Meta is training a massive open-weight model targeting a late 2026 release, utilizing over 100k GPUs.",
+              url: "https://x.com"
+            }
+          ]
+        }
+      ];
+      selectedRecordIndex = 0;
+      renderCurrentRecord();
+    }
+
+    function renderCurrentRecord() {
+      const record = trendData[selectedRecordIndex];
+      dateBadgeText.textContent = `${record.date} (${record.timestamp})`;
+      
+      // 1. Render AI News
+      aiNewsContainer.innerHTML = '';
+      if (record.ai_trends && record.ai_trends.length > 0) {
+        aiCountBadge.textContent = record.ai_trends.length;
+        record.ai_trends.forEach((item, index) => {
+          const card = document.createElement('div');
+          card.className = 'news-card';
+          card.onclick = () => {
+            currentSlideIndex = index;
+            switchView('reader');
+          };
+          card.innerHTML = `
+            <div class="news-card-header">
+              <h3 class="news-card-title">${item.title}</h3>
+              <span class="news-tag">AI Trend #${index+1}</span>
+            </div>
+            <p class="news-card-summary">${item.summary}</p>
+            <div class="news-card-footer">
+              <span style="color: var(--color-text-dark)">Click card to open in Reader</span>
+              ${item.url ? `<a href="${item.url}" target="_blank" class="news-link" onclick="event.stopPropagation()">View Source &rarr;</a>` : ''}
+            </div>
+          `;
+          aiNewsContainer.appendChild(card);
+        });
+      } else {
+        aiCountBadge.textContent = '0';
+        aiNewsContainer.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">🤖</div>
+            <h3>No AI specific news collected</h3>
+            <p>Run the daily update or schedule to compile AI news trends.</p>
+          </div>
+        `;
+      }
+
+      // 2. Render General Trends
+      generalTrendsContainer.innerHTML = '';
+      if (record.general_trends && record.general_trends.length > 0) {
+        record.general_trends.forEach((trend, index) => {
+          const a = document.createElement('a');
+          a.className = 'trend-row';
+          a.href = `https://x.com/search?q=${encodeURIComponent(trend)}`;
+          a.target = '_blank';
+          a.innerHTML = `
+            <span class="trend-rank">#${index+1}</span>
+            <span class="trend-name">${trend}</span>
+            <span class="trend-arrow">&rarr;</span>
+          `;
+          generalTrendsContainer.appendChild(a);
+        });
+      } else {
+        generalTrendsContainer.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">🌐</div>
+            <p>No general trends scraped.</p>
+          </div>
+        `;
+      }
+
+      // 3. Setup Reader
+      currentSlideIndex = 0;
+      renderReaderSlide();
+    }
+
+    function renderReaderSlide() {
+      const record = trendData[selectedRecordIndex];
+      const trends = record.ai_trends || [];
+      
+      // Update progress indicators
+      progressContainer.innerHTML = '';
+      trends.forEach((_, idx) => {
+        const bar = document.createElement('div');
+        bar.className = 'progress-bar';
+        if (idx < currentSlideIndex) bar.classList.add('visited');
+        if (idx === currentSlideIndex) bar.classList.add('active');
+        
+        const fill = document.createElement('div');
+        fill.className = 'progress-bar-fill';
+        bar.appendChild(fill);
+        progressContainer.appendChild(bar);
+      });
+
+      if (trends.length > 0 && currentSlideIndex < trends.length) {
+        const item = trends[currentSlideIndex];
+        slideIndexBadge.textContent = `${currentSlideIndex + 1} of ${trends.length}`;
+        slideTitle.textContent = item.title;
+        slideBody.textContent = item.summary;
+        slideTag.textContent = `AI Trend #${currentSlideIndex + 1}`;
+        
+        if (item.url) {
+          slideActionBtn.style.display = 'inline-flex';
+          slideActionBtn.href = item.url;
+        } else {
+          slideActionBtn.style.display = 'none';
+        }
+
+        // Enable/Disable buttons
+        prevBtn.disabled = currentSlideIndex === 0;
+        nextBtn.disabled = currentSlideIndex === trends.length - 1;
+      } else {
+        slideIndexBadge.textContent = '0 of 0';
+        slideTitle.textContent = 'No Slides Available';
+        slideBody.textContent = 'Please populate AI trends to use Reader mode.';
+        slideActionBtn.style.display = 'none';
+        prevBtn.disabled = true;
+        nextBtn.disabled = true;
+      }
+    }
+
+    function nextSlide() {
+      const record = trendData[selectedRecordIndex];
+      const trends = record.ai_trends || [];
+      if (currentSlideIndex < trends.length - 1) {
+        currentSlideIndex++;
+        renderReaderSlide();
+      }
+    }
+
+    function prevSlide() {
+      if (currentSlideIndex > 0) {
+        currentSlideIndex--;
+        renderReaderSlide();
+      }
+    }
+
+    function switchView(viewName) {
+      activeTab = viewName;
+      document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+      document.querySelectorAll('.view-section').forEach(sec => sec.classList.remove('active'));
+      
+      if (viewName === 'overview') {
+        document.querySelector('.tab-btn[onclick*="overview"]').classList.add('active');
+        document.getElementById('overviewSection').classList.add('active');
+      } else {
+        document.querySelector('.tab-btn[onclick*="reader"]').classList.add('active');
+        document.getElementById('readerSection').classList.add('active');
+        renderReaderSlide();
+      }
+    }
+
+    function renderEmptyState() {
+      dateBadgeText.textContent = "No data available";
+      aiCountBadge.textContent = "0";
+      aiNewsContainer.innerHTML = `
+        <div class="empty-state">
+          <div class="empty-icon">𝕏</div>
+          <h3>No Records Found</h3>
+          <p>Scrape trends using Node scripts to see the dashboard.</p>
+        </div>
+      `;
+      generalTrendsContainer.innerHTML = '<p class="empty-state">No trends found.</p>';
+    }
+
+    // Date Picker Modal Methods
+    function openDatePicker() {
+      dateItemsContainer.innerHTML = '';
+      trendData.forEach((record, index) => {
+        const btn = document.createElement('button');
+        btn.className = `date-item-btn ${index === selectedRecordIndex ? 'selected' : ''}`;
+        btn.textContent = `${record.date} (Report compiled: ${record.timestamp})`;
+        btn.onclick = () => {
+          selectedRecordIndex = index;
+          renderCurrentRecord();
+          closeDatePicker();
+        };
+        dateItemsContainer.appendChild(btn);
+      });
+      dateOverlay.style.display = 'flex';
+    }
+
+    function closeDatePicker() {
+      dateOverlay.style.display = 'none';
+    }
+  </script>
+</body>
+</html>
