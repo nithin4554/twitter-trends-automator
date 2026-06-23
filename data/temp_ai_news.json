@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Rise of Agentic AI as Primary Enterprise Trend",
+    "summary": "Agentic AI systems designed for autonomous task execution and long-term planning are dominating CTO discussions in 2026. While 40% of tech leaders see agentic systems as primary drivers, scaling them and designing human-machine workflows remains a core challenge.",
+    "url": "https://x.com/search?q=Agentic+AI"
+  },
+  {
+    "title": "Anthropic Claude Fable 5 Re-Enabled After US Directives",
+    "summary": "Following a temporary shutdown of Anthropic's newly launched Claude Fable 5 and Mythos 5 models due to U.S. national security export concerns, access to Fable 5 has been restored with strict nationality-based controls. Concurrently, the complimentary trial period has closed.",
+    "url": "https://x.com/search?q=Claude+Fable+5"
+  },
+  {
+    "title": "New 'Agentjacking' Exploit Disclosed",
+    "summary": "Security researchers revealed 'Agentjacking'—a new exploit targeting autonomous developer workflows. Attackers inject malicious commands via fake Sentry error logs, triggering remote execution on developer environments, affecting over 2,000 organisations.",
+    "url": "https://x.com/search?q=Agentjacking"
+  },
+  {
+    "title": "Europe Scales Up NVIDIA AI HPC Infrastructure",
+    "summary": "Europe is undertaking its largest one-year HPC expansion, deploying 35 new NVIDIA-powered AI supercomputers across 23 nations to power local scientific research, healthcare AI, and quantum-GPU computations.",
+    "url": "https://x.com/search?q=NVIDIA+supercomputers"
+  },
+  {
+    "title": "Qualcomm QAIPI Shorts 15 Edge AI Startups",
+    "summary": "Qualcomm announced the shortlist of 15 startups for its AI Program for Innovators (QAIPI) in APAC. The program focuses on bringing advanced edge AI intelligence to robotics, healthcare, and aerospace systems.",
+    "url": "https://x.com/search?q=Qualcomm+Edge+AI"
+  }
+]
