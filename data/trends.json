@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-06-26",
+    "timestamp": "8:07 AM",
+    "general_trends": [
+      "#DrugsFreeBharat",
+      "スネージナヤ",
+      "#GalaxyM47Launch29June",
+      "#ZooombieRelay",
+      "#JoinS26ZombieRelay",
+      "ブラジル",
+      "#GalaxyS26",
+      "Wujudkan Sinergi Negeri",
+      "ケロロ軍曹",
+      "Hayırlı Cumalar",
+      "3Days Left Kabir Prakat Diwas",
+      "Suara Penerima Manfaat",
+      "Tsaritsa",
+      "オデット",
+      "Turkey"
+    ],
+    "ai_trends": [
+      {
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+      },
+      {
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
+      },
+      {
+        "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+        "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
+      },
+      {
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+      },
+      {
+        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
+        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+      },
+      {
+        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
+        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+      }
+    ]
+  },
+  {
     "date": "2026-06-25",
     "timestamp": "8:00 AM",
     "general_trends": [
