@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-07-22",
+    "timestamp": "7:12 AM",
+    "general_trends": [
+      "山田五郎さん",
+      "#ตี๋ตี๋ป๋อของวาวา",
+      "#RaktDanSevaYadnya",
+      "#HBD_DevendraJi",
+      "#ファミマル",
+      "タモリ倶楽部",
+      "#ルーシーの聞きたいセリフ",
+      "ステージ4Bがん闘病",
+      "ノーゲーム",
+      "所属事務所",
+      "Berbuah Sinergi Nyata",
+      "オトナの教養講座",
+      "塩バター味",
+      "公式発表",
+      "原発不明がん"
+    ],
+    "ai_trends": [
+      {
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+        "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/"
+      },
+      {
+        "title": "Meta is testing an AI bedtime story app for people with no imagination",
+        "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+        "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/"
+      },
+      {
+        "title": "OpenAI says Hugging Face was breached by its pre-release models",
+        "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+        "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/"
+      },
+      {
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and mo...",
+        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+      },
+      {
+        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security inc...",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+      },
+      {
+        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+        "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context so...",
+        "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+      }
+    ]
+  },
+  {
     "date": "2026-07-21",
     "timestamp": "7:08 AM",
     "general_trends": [
@@ -670,59 +723,6 @@
         "title": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#8217;",
         "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
         "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-      },
-      {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      },
-      {
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-08",
-    "timestamp": "7:04 AM",
-    "general_trends": [
-      "梅雨明け",
-      "Winwin",
-      "#تشليح_بارت_اطلب_قطع_سيارتك",
-      "#DadaFirstLook",
-      "#NewShape",
-      "#StockReversalConfirmed",
-      "Galaxy Unpacked",
-      "#ShopeeBelanjaInstant1Jam",
-      "Ashnisha Industries",
-      "🫑グリーンホットウィング",
-      "🌶️レッドホットチキン",
-      "どっち派",
-      "LOLO FIRST SOLO PR",
-      "️https",
-      "富山高山すし空港"
-    ],
-    "ai_trends": [
-      {
-        "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-        "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
-      },
-      {
-        "title": "Why the rise of open source AI isn&#8217;t hurting Anthropic &#8230; yet",
-        "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
-      },
-      {
-        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-        "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-        "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
