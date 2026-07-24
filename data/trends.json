@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-07-24",
+    "timestamp": "7:07 AM",
+    "general_trends": [
+      "#GalaxyZFold8",
+      "#PahamiTarifWNI",
+      "モモンガ",
+      "#NuNew2ndConcert",
+      "Hanya Administrasi Negara",
+      "ハチワレ",
+      "NUNEW IN IMPACT SOON",
+      "#FairFoodRegulation",
+      "入場者特典",
+      "スタジアム",
+      "#JumatBerbagiBerkah",
+      "チャームミニフィギュア",
+      "Mengabdi Dengan Empati",
+      "シーサー",
+      "くりまんじゅう"
+    ],
+    "ai_trends": [
+      {
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
+      },
+      {
+        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
+      },
+      {
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+      },
+      {
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+      },
+      {
+        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
+        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+      },
+      {
+        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
+        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+      }
+    ]
+  },
+  {
     "date": "2026-07-23",
     "timestamp": "7:06 AM",
     "general_trends": [
@@ -670,59 +723,6 @@
         "title": "Open source AI matters more than ever, according to Hugging Face&#8217;s Clem Delangue",
         "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and dow...",
         "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-      },
-      {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      },
-      {
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-10",
-    "timestamp": "7:59 AM",
-    "general_trends": [
-      "デュプランティエ",
-      "NAA PUSHDE FT FUKRA OUT",
-      "Ann Widdecombe",
-      "#PennyStockInNews",
-      "#OishixGFSNTrip2026",
-      "GFSN OISHI JAPAN TRIP",
-      "#FileninSultanları",
-      "#ValkoWasFramed",
-      "#शराब_पीना_महापाप",
-      "Hayırlı Cumalar",
-      "Mélanie",
-      "Sa True Story YouTube",
-      "Memastikan NKRI Tangguh",
-      "Yeonjun",
-      "技能試験"
-    ],
-    "ai_trends": [
-      {
-        "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
-        "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/"
-      },
-      {
-        "title": "Fidji Simo steps down from OpenAI&#8217;s no. 2 role",
-        "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company e...",
-        "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
-      },
-      {
-        "title": "OpenAI launches its new family of models with GPT-5.6",
-        "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-        "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
