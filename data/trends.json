@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-08-16",
+    "timestamp": "5:00 AM",
+    "general_trends": [
+      "#UFC330",
+      "#ARMYsAgainstViolence",
+      "#ARMYsAgainstAbusers",
+      "#ARMYsAgainstChrisBrown",
+      "#FOURTHconcert",
+      "有明高校",
+      "ラガータイプのビール",
+      "アルカナ",
+      "連休最終日",
+      "盆休み最終日",
+      "応募締切",
+      "Dern",
+      "水着ハイラ",
+      "タル子マン",
+      "盆最終日"
+    ],
+    "ai_trends": [
+      {
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+      },
+      {
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+      },
+      {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+      },
+      {
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+      },
+      {
+        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
+        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+      },
+      {
+        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
+        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "timestamp": "4:57 AM",
     "general_trends": [
@@ -670,59 +723,6 @@
         "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
         "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
         "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-      },
-      {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      },
-      {
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "timestamp": "7:07 AM",
-    "general_trends": [
-      "ピューロマジック",
-      "Dodgers",
-      "#CG総選挙決戦前日",
-      "ココナッツブラウン",
-      "アイビスサマーダッシュ",
-      "バニーの日",
-      "クイーンS",
-      "#ちゅーとりえらいぶ2026_Day2",
-      "Skubal",
-      "ロードトレイル",
-      "#قرض_عقاري_كاشθち44ち1θ032",
-      "カウスリップ",
-      "#FriendshipDay",
-      "スクーバル",
-      "ヴーレヴー"
-    ],
-    "ai_trends": [
-      {
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
-      },
-      {
-        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
-      },
-      {
-        "title": "Sam Altman is still making the case for parenting via ChatGPT",
-        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
