@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-08-22",
+    "timestamp": "4:59 AM",
+    "general_trends": [
+      "智弁和歌山",
+      "健大高崎",
+      "#LYKNReflexionConcert",
+      "#PrimerPlanoCHV",
+      "ジョックロック",
+      "甲子園決勝",
+      "スクイズ",
+      "#KUOTASERBA8RIBU",
+      "ナイスゲーム",
+      "#SmackDown",
+      "#青パケおやつが届く",
+      "ワイルドピッチ",
+      "Gopay",
+      "逆転2ラン",
+      "シルバニア"
+    ],
+    "ai_trends": [
+      {
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+      },
+      {
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+      },
+      {
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+      },
+      {
+        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arriva...",
+        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+      },
+      {
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+      },
+      {
+        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
+        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+      }
+    ]
+  },
+  {
     "date": "2026-08-21",
     "timestamp": "5:04 AM",
     "general_trends": [
@@ -670,59 +723,6 @@
         "title": "OpenAI says it slowed Astra model development over security concerns",
         "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-...",
         "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-      },
-      {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      },
-      {
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "timestamp": "5:20 AM",
-    "general_trends": [
-      "#世界猫の日",
-      "ミッチー",
-      "エビライ",
-      "EBiDAN THE LIVE 2026",
-      "#PERSES_UNCENSORED",
-      "#KUOTASERBA8RIBU",
-      "ミニフォト",
-      "ディアス",
-      "#JuniorMarkConcertD2",
-      "シューヤ",
-      "#グラブルEXフェス2026",
-      "リョウガ",
-      "末広がり",
-      "マサヒロ",
-      "escort"
-    ],
-    "ai_trends": [
-      {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-...",
-        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
-      },
-      {
-        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
-      },
-      {
-        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-        "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents...",
-        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
