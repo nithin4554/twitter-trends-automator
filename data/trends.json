@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-08-25",
+    "timestamp": "5:05 AM",
+    "general_trends": [
+      "#BTS_WORLDTOUR_BANGKOK",
+      "#เปิดกล้องYourtuber",
+      "YOURTUBER Q1",
+      "ドリフェス",
+      "砂糖醤油",
+      "#AspirasiDamaiPati",
+      "#100Kโอ๋เอ๋มาแล้วคับ",
+      "Dialog Tanpa Kekerasan",
+      "#UsutKejahatanLingkungan",
+      "Lindungi Hutan Lahan Indonesia",
+      "天地創造",
+      "EDF6.2",
+      "Yanet",
+      "チキンラーメン",
+      "地球防衛軍6.2"
+    ],
+    "ai_trends": [
+      {
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+      },
+      {
+        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
+      },
+      {
+        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+        "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arriva...",
+        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+      },
+      {
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+      },
+      {
+        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
+        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "timestamp": "5:12 AM",
     "general_trends": [
@@ -670,59 +723,6 @@
         "title": "Google’s Gemini app surges to 1 billion users",
         "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150...",
         "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-      },
-      {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      },
-      {
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "timestamp": "5:35 AM",
-    "general_trends": [
-      "#記憶を消して一からやりたいゲーム",
-      "パールさん",
-      "#calvinklein",
-      "#تشليح_بارت__يبحث_بكل_التشاليح",
-      "#رفع_ترند_ااول_O57O27З24З",
-      "#sea_tawinan",
-      "レイズムーン",
-      "Buddiesローソン",
-      "おひさまローソン",
-      "台風の影響",
-      "愉悦耐久",
-      "マンシー",
-      "智弁和歌山",
-      "ディアス",
-      "イコラブ"
-    ],
-    "ai_trends": [
-      {
-        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-        "summary": "San Francisco's housing market is in trouble again.",
-        "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
-      },
-      {
-        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-        "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
-      },
-      {
-        "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
-        "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-        "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
