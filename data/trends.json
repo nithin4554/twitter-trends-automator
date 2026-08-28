@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-08-28",
+    "timestamp": "4:50 PM",
+    "general_trends": [
+      "#วาดฝันวันวิวาห์EP11",
+      "LINGORM ILF EP11",
+      "#Tシャツが乾くまで",
+      "イノッチ",
+      "#ساعه_استجابه",
+      "伊達さん",
+      "#WEIRDO101SeriesEP3",
+      "#BotswanaWordExpo",
+      "WAY TO NEW RELATIONSHIP",
+      "伊達ちゃん",
+      "まどマギ",
+      "PERTHSANTA HEART MADE",
+      "Mbaye",
+      "Warsh",
+      "Leao"
+    ],
+    "ai_trends": [
+      {
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/"
+      },
+      {
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/"
+      },
+      {
+        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and wa...",
+        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+      },
+      {
+        "title": "When agents act on their own, governance has to live in the data layer",
+        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every...",
+        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+      },
+      {
+        "title": "Orchestration is the new challenge for CX in the age of AI agents",
+        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most o...",
+        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "timestamp": "3:24 PM",
     "general_trends": [
@@ -670,59 +723,6 @@
         "title": "Kog is going deeper to squeeze more inference out of GPUs",
         "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
         "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-      },
-      {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      },
-      {
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "timestamp": "5:56 AM",
-    "general_trends": [
-      "束縛ボイス",
-      "#FinalFiebreDeBaile",
-      "#SB19日本ログ2026",
-      "#BINI_SummerSonic_Osaka",
-      "BINI MAKES OSAKA BLOOM",
-      "#サマソニ",
-      "Botafogo",
-      "ディアス",
-      "#วันของที่รักสารวัตรเธียร์",
-      "Edwin Diaz",
-      "PIL PRESS AND PRAY",
-      "SANTA LIP NUDE LIVE",
-      "ツアー発表",
-      "Phoebe",
-      "にじさんじオフィシャルストア"
-    ],
-    "ai_trends": [
-      {
-        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-        "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
-      },
-      {
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-        "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
-      },
-      {
-        "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
