@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-08-31",
+    "timestamp": "11:03 AM",
+    "general_trends": [
+      "#CDTVライブライブ",
+      "#新曲フルサイズ披露_INI",
+      "#OrmxDecorteSiamParagon",
+      "ORM X DECORTÉ LIPOSOME",
+      "#今月描いた絵を晒そう",
+      "#Qさま",
+      "28Şubat DevamEdiyor",
+      "カタール",
+      "FRAGRANT WITH WILLIAMEST",
+      "小園離婚",
+      "Young Messi",
+      "事実上の分裂",
+      "Squall",
+      "ポケモン",
+      "中道・立憲・公明"
+    ],
+    "ai_trends": [
+      {
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+      },
+      {
+        "title": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
+        "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already tr...",
+        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+      },
+      {
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+      },
+      {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and wa...",
+        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+      },
+      {
+        "title": "When agents act on their own, governance has to live in the data layer",
+        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every...",
+        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+      },
+      {
+        "title": "Orchestration is the new challenge for CX in the age of AI agents",
+        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most o...",
+        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "timestamp": "10:03 AM",
     "general_trends": [
@@ -670,59 +723,6 @@
         "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
         "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
         "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-      },
-      {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      },
-      {
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "timestamp": "5:08 AM",
-    "general_trends": [
-      "Hayden Panettiere",
-      "#FittingYourTuber",
-      "#GOPAYKUOTA8RIBU",
-      "TFO YOURTUBER FITTING",
-      "नाग पंचमी",
-      "ヴェスナ",
-      "Heroes",
-      "#OPPOReno16",
-      "#暑すぎるのでみんな涼しくなりませんか",
-      "#ニフティ光公式アカウントスタート",
-      "Remember the Titans",
-      "Rayakan Di Natasha",
-      "Arantza",
-      "連休明け",
-      "ときどさん"
-    ],
-    "ai_trends": [
-      {
-        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-        "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-      },
-      {
-        "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
-        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
-      },
-      {
-        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
