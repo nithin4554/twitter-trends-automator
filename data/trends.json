@@ -1,5 +1,58 @@
 [
   {
+    "date": "2026-09-02",
+    "timestamp": "8:56 AM",
+    "general_trends": [
+      "#Drishyam2ndOct",
+      "#CamaraCimboma",
+      "#ABVPWinMUHS",
+      "#PPxSTAKE",
+      "#PPTHEGOAT",
+      "ロマンチックウォリアー",
+      "Aldo",
+      "パジェロ",
+      "MR FANBOY PRESS TOUR",
+      "月見バーガー",
+      "GEMINI READY FOR CONCERT",
+      "ロマウォ引退",
+      "TUĞBERK İMAMOĞLU",
+      "ティフォロス",
+      "Kebaikan Negeri Utama"
+    ],
+    "ai_trends": [
+      {
+        "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
+        "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+      },
+      {
+        "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
+        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+      },
+      {
+        "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
+        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
+      },
+      {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and wa...",
+        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+      },
+      {
+        "title": "When agents act on their own, governance has to live in the data layer",
+        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every...",
+        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+      },
+      {
+        "title": "Orchestration is the new challenge for CX in the age of AI agents",
+        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most o...",
+        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+      }
+    ]
+  },
+  {
     "date": "2026-09-01",
     "timestamp": "9:32 AM",
     "general_trends": [
@@ -685,59 +738,6 @@
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
         "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
         "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "timestamp": "5:02 AM",
-    "general_trends": [
-      "#ハットのMピザ740円ざんしょ",
-      "ユニフォーム",
-      "#セット500とおトクすぎる夏",
-      "#暑すぎるのでみんな涼しくなりませんか",
-      "岸恵子さん",
-      "#เรย์แมคโดนัลด์",
-      "#AdanaEmniyeti",
-      "バイクの日",
-      "FurkanHareketine Operasyon",
-      "AlparslanHoca Gözaltında",
-      "TAMARA AL 9009",
-      "Florida",
-      "गोस्वामी तुलसीदास",
-      "HARIT GOLDEN CHAPTER 27",
-      "Vindman"
-    ],
-    "ai_trends": [
-      {
-        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
-      },
-      {
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
-      },
-      {
-        "title": "Etched&#8217;s valuation doubles to $21B in a month",
-        "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-        "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-      },
-      {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      },
-      {
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has ...",
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
       }
     ]
   }
