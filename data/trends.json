@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-04",
+    "timestamp": "8:58 AM",
+    "general_trends": [
+      "#TOISocialImpactSummit2026",
+      "#TraitorsS2Finale",
+      "#GeminiConcertD1",
+      "श्री कृष्ण",
+      "ボカロ曲",
+      "#TEN_OUTWEST",
+      "#POCOX8Series",
+      "GEMINI START THE ADVENTURE",
+      "Hayırlı Cumalar",
+      "EOS-05",
+      "GSLV-F17",
+      "Krystle",
+      "भारत सिंह",
+      "くら寿司",
+      "Kampung Nelayan Merah Putih"
+    ],
+    "ai_trends": [
+      {
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+        "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/"
+      },
+      {
+        "title": "Crusoe reportedly raises $3B at a $30B valuation",
+        "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+        "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+      },
+      {
+        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+        "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+        "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "timestamp": "9:05 AM",
     "general_trends": [
@@ -670,59 +708,6 @@
         "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
         "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
         "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
-      },
-      {
-        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-        "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arriva...",
-        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. O...",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-      },
-      {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fu...",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-21",
-    "timestamp": "5:04 AM",
-    "general_trends": [
-      "#THE_SIN_BLISS_OutNow",
-      "#BloodyParadise",
-      "#ENHYPEN",
-      "ジェニュイン",
-      "バニーの日",
-      "#VERZUZ",
-      "Corinthians",
-      "Donell",
-      "#毎週金曜はおつピザ",
-      "くら寿司",
-      "Bad For You",
-      "あと半日",
-      "Pedro Raul",
-      "Two Fools",
-      "HUG E LHEE Q2"
-    ],
-    "ai_trends": [
-      {
-        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-        "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
-      },
-      {
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
-      },
-      {
-        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-        "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
