@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-12",
+    "timestamp": "8:45 AM",
+    "general_trends": [
+      "ジョバンニ",
+      "#NamtanFilmFancon",
+      "#4ElementsInfiniteBonds",
+      "4E OUR INFINITE MOMENTS",
+      "#MchoiceMintAwards2026",
+      "#HBDAdityaKumar",
+      "うさほー",
+      "ゲッツー",
+      "#ACEes_V_PARADOX_3M",
+      "ライデル",
+      "スペライ",
+      "ディベイニー",
+      "カラマティアノス",
+      "チャレンジカップ",
+      "高級幹部"
+    ],
+    "ai_trends": [
+      {
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+      },
+      {
+        "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
+        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+      },
+      {
+        "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
+        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-11",
     "timestamp": "9:01 AM",
     "general_trends": [
@@ -550,59 +588,6 @@
         "title": "Nvidia’s AI advantage is moving beyond the GPU",
         "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
         "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
-      },
-      {
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and wa...",
-        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
-      },
-      {
-        "title": "When agents act on their own, governance has to live in the data layer",
-        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every...",
-        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
-      },
-      {
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most o...",
-        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-29",
-    "timestamp": "11:17 AM",
-    "general_trends": [
-      "#YouManiacSeriesEP1",
-      "MANIAC OPENING NITE",
-      "#วอลเลย์บอลหญิง",
-      "#กาลครั้ง6TattooStadium",
-      "#KhemjiraFMFrankfurt",
-      "#UFCShanghai",
-      "PERTHSANTADOMIIA DERMA LAB",
-      "マツケンサンバ",
-      "申告敬遠",
-      "れおほー",
-      "SB19 PLAYS AT NBA PH",
-      "JOONGDUNK AMANO L&#x27;ITALIA",
-      "エウベル",
-      "松陰寺くん",
-      "高寺敬遠"
-    ],
-    "ai_trends": [
-      {
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
-      },
-      {
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
-      },
-      {
-        "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-        "summary": "There's a lot of capital pouring into the business of giving models away.",
-        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
       },
       {
         "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
