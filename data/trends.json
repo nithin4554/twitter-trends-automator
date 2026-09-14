@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-14",
+    "timestamp": "10:03 AM",
+    "general_trends": [
+      "#キュントゥグンテレビ初披露",
+      "#CDTVライブライブ",
+      "#セブンでジッパン",
+      "#僕カワブラミTV初披露",
+      "#Levisxnamtanfilm",
+      "Ganesh Chaturthi",
+      "LENAMIU PRESENTER H&SD",
+      "SADDLE UP OUT NOW",
+      "GMMTV ADD ML FANCON DAY2",
+      "カードセット",
+      "肉じゃが",
+      "Purbaya",
+      "KARINA 16 BIT RELEASE",
+      "スラアク",
+      "バックスクリーン"
+    ],
+    "ai_trends": [
+      {
+        "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
+        "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+      },
+      {
+        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and s...",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+      },
+      {
+        "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "timestamp": "9:39 AM",
     "general_trends": [
@@ -520,59 +558,6 @@
         "title": "Instagram puts new limits on undisclosed AI profiles",
         "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
         "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
-      },
-      {
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and wa...",
-        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
-      },
-      {
-        "title": "When agents act on their own, governance has to live in the data layer",
-        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every...",
-        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
-      },
-      {
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most o...",
-        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "timestamp": "11:03 AM",
-    "general_trends": [
-      "#CDTVライブライブ",
-      "#新曲フルサイズ披露_INI",
-      "#OrmxDecorteSiamParagon",
-      "ORM X DECORTÉ LIPOSOME",
-      "#今月描いた絵を晒そう",
-      "#Qさま",
-      "28Şubat DevamEdiyor",
-      "カタール",
-      "FRAGRANT WITH WILLIAMEST",
-      "小園離婚",
-      "Young Messi",
-      "事実上の分裂",
-      "Squall",
-      "ポケモン",
-      "中道・立憲・公明"
-    ],
-    "ai_trends": [
-      {
-        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-        "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
-      },
-      {
-        "title": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
-        "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already tr...",
-        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
-      },
-      {
-        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-        "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
       },
       {
         "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
