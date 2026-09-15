@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-15",
+    "timestamp": "9:32 AM",
+    "general_trends": [
+      "#AskSRK",
+      "Karina",
+      "GEMA",
+      "善臣先生",
+      "#ブラックサンダー新作",
+      "#ゴンチャの新ペットボトル",
+      "INI ANTHEM",
+      "#トリッカル流行語",
+      "#北海道リッチバター味が新登場",
+      "グローバルホーク",
+      "善臣さん",
+      "フレンジー",
+      "スキン大会",
+      "柴田善臣騎手",
+      "Yahir"
+    ],
+    "ai_trends": [
+      {
+        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+        "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+        "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+      },
+      {
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "timestamp": "10:03 AM",
     "general_trends": [
@@ -505,59 +543,6 @@
         "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
         "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
         "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
-      },
-      {
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and wa...",
-        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
-      },
-      {
-        "title": "When agents act on their own, governance has to live in the data layer",
-        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every...",
-        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
-      },
-      {
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most o...",
-        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "timestamp": "9:32 AM",
-    "general_trends": [
-      "Happy New Month",
-      "#เติ้ลเฟิร์สวัน",
-      "#TleFirstone",
-      "May September",
-      "イッテラッシャイ",
-      "#トリックオアシガール",
-      "不来方賞",
-      "#BAOBAOCOSMICICONSIAMxEst",
-      "#LABXxDEXX",
-      "Cihan Kamer",
-      "FELIX SKZ PLAYER OUT NOW",
-      "FELIX FELIX",
-      "私の診断",
-      "ロックターミガン",
-      "Valmiki Leela Capital"
-    ],
-    "ai_trends": [
-      {
-        "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
-        "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-        "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
-      },
-      {
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
-      },
-      {
-        "title": "Instagram puts new limits on undisclosed AI profiles",
-        "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-        "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
       },
       {
         "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
