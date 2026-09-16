@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-16",
+    "timestamp": "9:25 AM",
+    "general_trends": [
+      "#bist100",
+      "#AWSDataAndAIDay2026",
+      "#RotamızKademe",
+      "#BOF500",
+      "#TurnAroundStock",
+      "HUG E LHEE Q5",
+      "Piddington",
+      "カプセルトイ",
+      "Olu Jacobs",
+      "羽根募金",
+      "使途不明金",
+      "計2億5000万円",
+      "SnowMotion Studio",
+      "募金会明らか",
+      "Viva México"
+    ],
+    "ai_trends": [
+      {
+        "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
+        "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+      },
+      {
+        "title": "The AI data center boom is colliding with cities scarred by big industry",
+        "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
+      },
+      {
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "timestamp": "9:32 AM",
     "general_trends": [
@@ -490,59 +528,6 @@
         "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
         "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
         "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
-      },
-      {
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and wa...",
-        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
-      },
-      {
-        "title": "When agents act on their own, governance has to live in the data layer",
-        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every...",
-        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
-      },
-      {
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most o...",
-        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-02",
-    "timestamp": "8:56 AM",
-    "general_trends": [
-      "#Drishyam2ndOct",
-      "#CamaraCimboma",
-      "#ABVPWinMUHS",
-      "#PPxSTAKE",
-      "#PPTHEGOAT",
-      "ロマンチックウォリアー",
-      "Aldo",
-      "パジェロ",
-      "MR FANBOY PRESS TOUR",
-      "月見バーガー",
-      "GEMINI READY FOR CONCERT",
-      "ロマウォ引退",
-      "TUĞBERK İMAMOĞLU",
-      "ティフォロス",
-      "Kebaikan Negeri Utama"
-    ],
-    "ai_trends": [
-      {
-        "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
-        "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
-      },
-      {
-        "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
-        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
-      },
-      {
-        "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
-        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
       },
       {
         "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
