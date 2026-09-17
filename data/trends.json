@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-17",
+    "timestamp": "9:35 AM",
+    "general_trends": [
+      "PERTH MY LA ROCHE",
+      "#LOEWExPhuwin",
+      "#GMMTVFANIVAL2026HappyFamily",
+      "#AvaadaWishesModiji",
+      "#モンフリ",
+      "#推しモン",
+      "SKYNANI REHEARSAL LIVE",
+      "金木犀の香り",
+      "ビジネスデー",
+      "レガリア",
+      "木浪スタメン",
+      "内閣支持44",
+      "भगवान विश्वकर्मा",
+      "生歌生演奏",
+      "プラネタリウム"
+    ],
+    "ai_trends": [
+      {
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
+      },
+      {
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability,...",
+        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-16",
     "timestamp": "9:25 AM",
     "general_trends": [
@@ -490,59 +528,6 @@
         "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
         "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
         "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-03",
-    "timestamp": "9:05 AM",
-    "general_trends": [
-      "#BurnWithPLAVE_FLAME",
-      "#Flame_불을지펴_플레이브",
-      "#MijiaAirPurifiers",
-      "#AI_cheapest_Stock",
-      "#WENMONTHLY",
-      "Davido",
-      "WAVE IN SFWSS27",
-      "OMI 2026",
-      "Dialog Dan Keadilan",
-      "メタノール",
-      "THOMASKONG IN SFWSS27",
-      "LENAMIU AT Y ENT AWARDS",
-      "LOVE MAZE",
-      "FOURTH MUSE OF MATTER MAKERS",
-      "erigga"
-    ],
-    "ai_trends": [
-      {
-        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-        "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-        "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/"
-      },
-      {
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and wa...",
-        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
-      },
-      {
-        "title": "When agents act on their own, governance has to live in the data layer",
-        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every...",
-        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
-      },
-      {
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most o...",
-        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
       }
     ]
   }
