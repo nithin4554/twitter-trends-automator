@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-19",
+    "timestamp": "8:54 AM",
+    "general_trends": [
+      "#SkyNaniSToTheNFanconD1",
+      "#BuildYourBlockbuster",
+      "#いきづらい部2nd_Day1",
+      "フルフル",
+      "美味しんぼ",
+      "#VijayThalapathyOnZee5",
+      "SKYNANI INFINITE JOURNEY",
+      "#マイナビTGC",
+      "OHAE AT FUTUREPARK",
+      "キャリーオーバー",
+      "Greenland",
+      "EST SUPHA WITH ASG26",
+      "PERTHSANTA NIHON ICHINICHI",
+      "timelesz",
+      "TGS中止"
+    ],
+    "ai_trends": [
+      {
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
+      },
+      {
+        "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
+        "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
+      },
+      {
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "timestamp": "9:07 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
         "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
         "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-05",
-    "timestamp": "8:29 AM",
-    "general_trends": [
-      "#Blingy1stWin",
-      "#TeachersDay",
-      "ショウナンガレオン",
-      "セイレーン",
-      "ピコローズ",
-      "#アズレンMUSI9FES",
-      "#ใครๆก็โหวต127",
-      "#MOSCHINO",
-      "チャームミニフィギュア",
-      "PERTHSANTA PEAK ROMANCE",
-      "ドロップオブライト",
-      "京成杯AH",
-      "たかほー",
-      "入場者特典",
-      "サメカツ"
-    ],
-    "ai_trends": [
-      {
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
-      },
-      {
-        "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
-        "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-        "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
-      },
-      {
-        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
       }
     ]
   }
