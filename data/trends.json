@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-20",
+    "timestamp": "9:24 AM",
+    "general_trends": [
+      "メイショウゲキリン",
+      "#HBD_RavindraChavan",
+      "#HappyBirthdayRaviDada",
+      "#JusticeForDUSUstudent",
+      "#YouthDemandRecountingDusu",
+      "#RecountingDusuResults",
+      "オールカマー",
+      "レガレイラ",
+      "コスモキュランダ",
+      "キャントウェイト",
+      "SKYNANI ENDLESS VOYAGE",
+      "HERE WITH YOU CL",
+      "Gojek Di GoPay 1000",
+      "マチャド",
+      "Merciful Sant RampalJi Maharaj"
+    ],
+    "ai_trends": [
+      {
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+        "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
+      },
+      {
+        "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
+        "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+      },
+      {
+        "title": "Google’s Gemini is the latest AI model to hack other companies",
+        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+        "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-19",
     "timestamp": "8:54 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
         "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-06",
-    "timestamp": "8:47 AM",
-    "general_trends": [
-      "マスターソアラ",
-      "フリッカージャブ",
-      "れおほー",
-      "ママコチャ",
-      "#LingxDirovoAppreciationEvent",
-      "Michigan",
-      "LINGLING PRESENTER DIROVO",
-      "ピューロマジック",
-      "セントウルS",
-      "ドリームコア",
-      "#Liella_結女体育祭_Day2",
-      "まりほー",
-      "Cホール",
-      "#学マス標ツアー_福岡公演_DAY2",
-      "ルケーシー"
-    ],
-    "ai_trends": [
-      {
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
-      },
-      {
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
-      },
-      {
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
       }
     ]
   }
