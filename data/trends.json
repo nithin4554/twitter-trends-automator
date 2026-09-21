@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-21",
+    "timestamp": "10:08 AM",
+    "general_trends": [
+      "#WilliamEstConcert",
+      "ロブチェン",
+      "ホームラン",
+      "#วอลเลย์บอลหญิง",
+      "大山さん",
+      "#जनसेवक_सिंधिया",
+      "チーバくん",
+      "大山サヨ",
+      "大山悠輔",
+      "#阪神タイガース",
+      "#TripleEngineInRajasthan",
+      "スクイズ",
+      "シートゥサミット",
+      "神戸新聞杯",
+      "シリイベ"
+    ],
+    "ai_trends": [
+      {
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
+      },
+      {
+        "title": "World model companies are keeping a lot of secrets",
+        "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually b...",
+        "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+      },
+      {
+        "title": "Is the AI industry really ready to slow down?",
+        "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+        "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "timestamp": "9:24 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
         "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
         "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "timestamp": "9:35 AM",
-    "general_trends": [
-      "#OsmaniyeEmniyeti",
-      "DEATH OF ME OUT NOW",
-      "Açıklamaya SafakBaskını",
-      "IfadeHürriyetine Darbe",
-      "#ยัวร์ทูบเบอร์Q3",
-      "#วอลเลย์บอลชาย",
-      "YOURTUBER Q3",
-      "Gala",
-      "チャアク",
-      "#新マルちゃん正麺始動",
-      "サトノレーヴ引退",
-      "一般常識",
-      "#KademeyeCevapVerin",
-      "ほうじ茶",
-      "happy new week"
-    ],
-    "ai_trends": [
-      {
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
-      },
-      {
-        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-        "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-        "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
-      },
-      {
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
       }
     ]
   }
