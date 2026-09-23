@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-23",
+    "timestamp": "9:26 AM",
+    "general_trends": [
+      "#PPxSHUFFLE",
+      "#RPETAbhiyaan",
+      "#اليوم_الوطني_٩٦",
+      "#SeptemberHitam",
+      "Bersuara Tanpa Provokasi",
+      "#شبيه_سهيل__الامير_محمدبن_سلمان",
+      "連休最終日",
+      "シルバーウィーク最終日",
+      "マジック7",
+      "SHOCK",
+      "ज्ञानेश कुमार",
+      "Himesh Reshammiya",
+      "चुनाव आयोग",
+      "ヴェスナ",
+      "魔神任務"
+    ],
+    "ai_trends": [
+      {
+        "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
+        "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
+      },
+      {
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+      },
+      {
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "timestamp": "9:25 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Massachusetts hits data centers with new clean power rules",
         "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
         "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "timestamp": "9:05 AM",
-    "general_trends": [
-      "Shelton",
-      "メガグソクムシャ",
-      "Alcaraz",
-      "#ケンタが食べたい食べさせたい",
-      "ニョロトノ",
-      "#RENJIN",
-      "チャンミ",
-      "ブラック・ブレット",
-      "#NoidaDM",
-      "#StopTargetingMedhaRoopam",
-      "#USOpen",
-      "ブリジュラス",
-      "ガンランス",
-      "Zverev",
-      "TDMI"
-    ],
-    "ai_trends": [
-      {
-        "title": "Hackers are stealing Claude tokens from subscribers",
-        "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-        "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
-      },
-      {
-        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-        "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-        "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
-      },
-      {
-        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-        "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people stil...",
-        "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
       }
     ]
   }
