@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-24",
+    "timestamp": "9:26 AM",
+    "general_trends": [
+      "#deprem",
+      "#MahaRPETAbhiyaan2026",
+      "#RungtaSteelEkDumSolid",
+      "#şanlıurfa",
+      "#MiviOne5G",
+      "くりまんじゅうだらけくじ",
+      "West",
+      "如月千早",
+      "世界新記録",
+      "スキン大会",
+      "連休明け",
+      "酒の免許",
+      "Karaköprü",
+      "ソーラーパネル",
+      "Andi Gani Provokator"
+    ],
+    "ai_trends": [
+      {
+        "title": "Everything new coming to Meta&#8217;s AI agent Muse",
+        "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI gl...",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+      },
+      {
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+      },
+      {
+        "title": "Meta introduces camera-free AI glasses",
+        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "timestamp": "9:26 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
         "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
         "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-10",
-    "timestamp": "9:04 AM",
-    "general_trends": [
-      "#超RIZIN5",
-      "ケラモフ",
-      "Sony",
-      "#VivienneWestwoodAndJewellery",
-      "Kojima",
-      "#วอลเลย์บอลชาย",
-      "PlayStation",
-      "Xbox",
-      "#قدوه_في_التعليم",
-      "ベイノア",
-      "#IUfromUnknownPlanet",
-      "iPhone",
-      "クジュティナ",
-      "De Paul",
-      "PHYSINT"
-    ],
-    "ai_trends": [
-      {
-        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-        "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
-      },
-      {
-        "title": "OpenAI adds a prominent AI doomer to its board of directors",
-        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
-      },
-      {
-        "title": "Massachusetts hits data centers with new clean power rules",
-        "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-        "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
       }
     ]
   }
