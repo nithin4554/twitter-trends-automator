@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-25",
+    "timestamp": "9:44 AM",
+    "general_trends": [
+      "#SHUFFLE",
+      "#MahaRpetAbhiyaan26",
+      "#TheVVAANInCinemasNow",
+      "#Suraag2On_DDNational",
+      "#NayaUPOnTheWorldStage",
+      "チキチー",
+      "中秋の名月",
+      "Local To Global UP",
+      "Papua Sah Dalam NKRI",
+      "REBECCA AT TODS MFW26",
+      "Cleveland",
+      "Hayırlı Cumalar",
+      "Alia Bhatt",
+      "여자농구",
+      "封神演義展"
+    ],
+    "ai_trends": [
+      {
+        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+        "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+      },
+      {
+        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+        "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+        "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
+      },
+      {
+        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+        "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+        "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "timestamp": "9:26 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
         "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
         "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-11",
-    "timestamp": "9:01 AM",
-    "general_trends": [
-      "#毎週金曜はおつピザ",
-      "#MPYatriParivahan",
-      "#星萌祭の思い出",
-      "あんスタ",
-      "#TheRomanticTourBKK",
-      "#ガンダム00F参戦",
-      "Hayırlı Cumalar",
-      "Emma Bonino",
-      "追加シナリオ",
-      "カードダス",
-      "TFO ZESPRI BATTLE",
-      "デジタル庁",
-      "スーパースターマン",
-      "一生結婚",
-      "レオセアラ"
-    ],
-    "ai_trends": [
-      {
-        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
-      },
-      {
-        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-        "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-        "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-        "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
       }
     ]
   }
