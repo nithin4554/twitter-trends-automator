@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-28",
+    "timestamp": "11:08 AM",
+    "general_trends": [
+      "#学マス小悪魔配信",
+      "GRABFOOD WITH PERTHSANTA",
+      "#帰れマンデー",
+      "#thisisjimin",
+      "ベネズエラ",
+      "#LingOrmDiorAirportLook",
+      "エリオス",
+      "NANI JOINS RGBLED BIRTHDAY",
+      "LINGORM FLY TO DIOR PFW",
+      "#WeSupportShehzadRNF2",
+      "Deniz Göktaş",
+      "リーリヤ",
+      "ジャクソン",
+      "BJP MLC Fraud Degree",
+      "アナザー"
+    ],
+    "ai_trends": [
+      {
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+      },
+      {
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+      },
+      {
+        "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
+        "summary": "\"AI is the devil and I its maker.\"",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-27",
     "timestamp": "10:08 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
         "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
         "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-14",
-    "timestamp": "10:03 AM",
-    "general_trends": [
-      "#キュントゥグンテレビ初披露",
-      "#CDTVライブライブ",
-      "#セブンでジッパン",
-      "#僕カワブラミTV初披露",
-      "#Levisxnamtanfilm",
-      "Ganesh Chaturthi",
-      "LENAMIU PRESENTER H&SD",
-      "SADDLE UP OUT NOW",
-      "GMMTV ADD ML FANCON DAY2",
-      "カードセット",
-      "肉じゃが",
-      "Purbaya",
-      "KARINA 16 BIT RELEASE",
-      "スラアク",
-      "バックスクリーン"
-    ],
-    "ai_trends": [
-      {
-        "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
-        "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
-      },
-      {
-        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-        "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and s...",
-        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
-      },
-      {
-        "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
-        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
       }
     ]
   }
