@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-09-29",
+    "timestamp": "10:50 AM",
+    "general_trends": [
+      "#初星小悪魔たちの宴",
+      "#きたれ天下五剣",
+      "#ShehzadOnRise",
+      "はつみちゃん",
+      "#UPITS_Unplugged",
+      "#BankNifty_Expiry",
+      "わたしのもの",
+      "リチャード",
+      "井上監督",
+      "あなたの心",
+      "復活当選",
+      "Ferhat Gündoğdu",
+      "甲子園中止",
+      "MIU NATSHA AT AMR POP-UP HK",
+      "イープラス"
+    ],
+    "ai_trends": [
+      {
+        "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+        "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+      },
+      {
+        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+        "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
+      },
+      {
+        "title": "OpenAI reportedly ditches model over safety concerns",
+        "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "timestamp": "11:08 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
         "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
         "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "timestamp": "9:32 AM",
-    "general_trends": [
-      "#AskSRK",
-      "Karina",
-      "GEMA",
-      "善臣先生",
-      "#ブラックサンダー新作",
-      "#ゴンチャの新ペットボトル",
-      "INI ANTHEM",
-      "#トリッカル流行語",
-      "#北海道リッチバター味が新登場",
-      "グローバルホーク",
-      "善臣さん",
-      "フレンジー",
-      "スキン大会",
-      "柴田善臣騎手",
-      "Yahir"
-    ],
-    "ai_trends": [
-      {
-        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-        "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
-        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
-        "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
-      },
-      {
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-        "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
       }
     ]
   }
