@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-01",
+    "timestamp": "11:06 AM",
+    "general_trends": [
+      "ロナルド",
+      "#WeLoveURajaWarring",
+      "Happy New Month",
+      "ドナルド",
+      "#GMMTVFANIVAL2026HappyFamily",
+      "#STARスター",
+      "ノーアウト満塁",
+      "#HunkkaarTheRoar",
+      "Nigeria",
+      "エクアドル",
+      "#XViralwithSahil",
+      "MCARD NEXT GEN WITH TTP",
+      "オントー",
+      "ヴァンビ",
+      "Ronaldo"
+    ],
+    "ai_trends": [
+      {
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+      },
+      {
+        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+        "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+      },
+      {
+        "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
+        "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+        "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "timestamp": "10:39 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "PrismML hopes its tiny LLM will change how we all use AI",
         "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
         "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-17",
-    "timestamp": "9:35 AM",
-    "general_trends": [
-      "PERTH MY LA ROCHE",
-      "#LOEWExPhuwin",
-      "#GMMTVFANIVAL2026HappyFamily",
-      "#AvaadaWishesModiji",
-      "#モンフリ",
-      "#推しモン",
-      "SKYNANI REHEARSAL LIVE",
-      "金木犀の香り",
-      "ビジネスデー",
-      "レガリア",
-      "木浪スタメン",
-      "内閣支持44",
-      "भगवान विश्वकर्मा",
-      "生歌生演奏",
-      "プラネタリウム"
-    ],
-    "ai_trends": [
-      {
-        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-        "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
-        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
-      },
-      {
-        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-        "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability,...",
-        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "Snap tries to make the case again for its $2,200 smart glasses",
-        "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/"
       }
     ]
   }
