@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-02",
+    "timestamp": "10:40 AM",
+    "general_trends": [
+      "#RayalaseemaVijayeebhava",
+      "#毎週金曜はおつピザ",
+      "Rama Singh FIR ISKCON",
+      "#SHEEPxTleFirstoneRainy",
+      "WE REIGN PRESS TOUR",
+      "#NATCON2026",
+      "#يوم_الجمعه",
+      "ドムドム",
+      "महात्मा गांधी",
+      "スガキヤ",
+      "パンどろぼう",
+      "Prizmmy",
+      "Hayırlı Cumalar",
+      "गांधी जयंती",
+      "Yoruba"
+    ],
+    "ai_trends": [
+      {
+        "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
+        "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
+      },
+      {
+        "title": "ChatGPT can now virtually try on clothes for you",
+        "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+        "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+      },
+      {
+        "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
+        "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+        "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-01",
     "timestamp": "11:06 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
         "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
         "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-18",
-    "timestamp": "9:07 AM",
-    "general_trends": [
-      "#毎週金曜はおつピザ",
-      "#YuvaDharamSansad2026",
-      "#UpperCircuitStock",
-      "#YashDabasPresident",
-      "シルバーウィーク",
-      "#AxiomGasIPOOpensToday",
-      "MAGIC LOVER Q1",
-      "ソフィー",
-      "あぶない刑事",
-      "Hayırlı Cumalar",
-      "義ノ富士",
-      "14 Cr",
-      "Berantas Tindak Kriminal",
-      "あぶ刑事",
-      "19.56 Cr"
-    ],
-    "ai_trends": [
-      {
-        "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
-        "summary": "The round values the data center giant at $30.9 billion.",
-        "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
-      },
-      {
-        "title": "Google DeepMind launches institute to widen the AGI debate",
-        "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change the...",
-        "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
-      },
-      {
-        "title": "PrismML hopes its tiny LLM will change how we all use AI",
-        "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-        "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
       }
     ]
   }
