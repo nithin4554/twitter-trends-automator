@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-03",
+    "timestamp": "9:59 AM",
+    "general_trends": [
+      "#IndvsPak",
+      "#阪神タイガース",
+      "らぶフェス",
+      "こいほー",
+      "BRING BACK RHITI BB20",
+      "#AsianGames",
+      "#दुग्ध_क्रांति_MP",
+      "#CREDAINATCON2026",
+      "胴上げ阻止",
+      "真剣乱舞祭2026",
+      "Shruti Choudhry",
+      "ミュージカル刀剣乱舞",
+      "スタンダード指定席",
+      "TMK X COLGATE",
+      "アウトカウント"
+    ],
+    "ai_trends": [
+      {
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+      },
+      {
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+      },
+      {
+        "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+        "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "timestamp": "10:40 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Google’s Gemini is the latest AI model to hack other companies",
         "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
         "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-19",
-    "timestamp": "8:54 AM",
-    "general_trends": [
-      "#SkyNaniSToTheNFanconD1",
-      "#BuildYourBlockbuster",
-      "#いきづらい部2nd_Day1",
-      "フルフル",
-      "美味しんぼ",
-      "#VijayThalapathyOnZee5",
-      "SKYNANI INFINITE JOURNEY",
-      "#マイナビTGC",
-      "OHAE AT FUTUREPARK",
-      "キャリーオーバー",
-      "Greenland",
-      "EST SUPHA WITH ASG26",
-      "PERTHSANTA NIHON ICHINICHI",
-      "timelesz",
-      "TGS中止"
-    ],
-    "ai_trends": [
-      {
-        "title": "India forces caller-ID apps to feed spam reports to telcos",
-        "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
-      },
-      {
-        "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-        "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
-      },
-      {
-        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-        "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
       }
     ]
   }
