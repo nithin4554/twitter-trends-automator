@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-04",
+    "timestamp": "10:42 AM",
+    "general_trends": [
+      "#BahrainGP",
+      "#WilliamEstConcert",
+      "#髙橋海人KAITOソロシングルリリース",
+      "#kpssonlisans",
+      "Ferrari",
+      "CRカップ",
+      "セイウンハーデス",
+      "#f1jp",
+      "Lewis",
+      "凱旋門賞",
+      "天使の日",
+      "Hamilton",
+      "GEMINIFOURTH LKN AT PATTAYA",
+      "THAI TASTE THAI FEST X PNB",
+      "ホウオウビスケッツ"
+    ],
+    "ai_trends": [
+      {
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+      },
+      {
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+      },
+      {
+        "title": "All the AI agents that can live in your text messages",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "timestamp": "9:59 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Is the AI industry really ready to slow down?",
         "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
         "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-20",
-    "timestamp": "9:24 AM",
-    "general_trends": [
-      "メイショウゲキリン",
-      "#HBD_RavindraChavan",
-      "#HappyBirthdayRaviDada",
-      "#JusticeForDUSUstudent",
-      "#YouthDemandRecountingDusu",
-      "#RecountingDusuResults",
-      "オールカマー",
-      "レガレイラ",
-      "コスモキュランダ",
-      "キャントウェイト",
-      "SKYNANI ENDLESS VOYAGE",
-      "HERE WITH YOU CL",
-      "Gojek Di GoPay 1000",
-      "マチャド",
-      "Merciful Sant RampalJi Maharaj"
-    ],
-    "ai_trends": [
-      {
-        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-        "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-        "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/"
-      },
-      {
-        "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
-        "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
-      },
-      {
-        "title": "Google’s Gemini is the latest AI model to hack other companies",
-        "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-        "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
       }
     ]
   }
