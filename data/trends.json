@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-05",
+    "timestamp": "11:45 AM",
+    "general_trends": [
+      "#SUPERAGENTPP",
+      "#CDTVライブライブ",
+      "#فجر_اليمن",
+      "#全世界にアディオス",
+      "焼肉きんぐ",
+      "#سداد_قروض_الاهلي_θƼ02θƼ9ƼƼб",
+      "باب المندب",
+      "Gojek Mulai 1000 DiGoPay",
+      "ニュージーランド",
+      "情報漏洩",
+      "情報流出",
+      "Pedro Sánchez",
+      "センセーション",
+      "ファンフェス",
+      "ヴァンパイア十字界"
+    ],
+    "ai_trends": [
+      {
+        "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+        "summary": "AI slop seems to be overwhelming bug bounty programs.",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+      },
+      {
+        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+      },
+      {
+        "title": "Trump unveils his new Super Intelligence Force",
+        "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "timestamp": "10:42 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
         "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab y...",
         "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "timestamp": "10:08 AM",
-    "general_trends": [
-      "#WilliamEstConcert",
-      "ロブチェン",
-      "ホームラン",
-      "#วอลเลย์บอลหญิง",
-      "大山さん",
-      "#जनसेवक_सिंधिया",
-      "チーバくん",
-      "大山サヨ",
-      "大山悠輔",
-      "#阪神タイガース",
-      "#TripleEngineInRajasthan",
-      "スクイズ",
-      "シートゥサミット",
-      "神戸新聞杯",
-      "シリイベ"
-    ],
-    "ai_trends": [
-      {
-        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-        "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
-      },
-      {
-        "title": "World model companies are keeping a lot of secrets",
-        "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually b...",
-        "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
-      },
-      {
-        "title": "Is the AI industry really ready to slow down?",
-        "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
-        "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
       }
     ]
   }
