@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-06",
+    "timestamp": "11:26 AM",
+    "general_trends": [
+      "#神業チャレンジ",
+      "#HMDXSreeleela",
+      "#vivoV80",
+      "#Moonlit",
+      "#おふうかい",
+      "SANTA WITH VENUS AT TOPS",
+      "Ebola",
+      "ひとつの肝臓",
+      "自分の情報",
+      "TRAILER KHEMJIRA FOREVER",
+      "デジタル庁",
+      "くりまんじゅう先輩",
+      "個人情報",
+      "最多安打",
+      "マゴさん"
+    ],
+    "ai_trends": [
+      {
+        "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+        "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+      },
+      {
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI sy...",
+        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+      },
+      {
+        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+        "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain s...",
+        "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "timestamp": "11:45 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
         "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
         "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-22",
-    "timestamp": "9:25 AM",
-    "general_trends": [
-      "#Manisa",
-      "#saldırı",
-      "#EliteconGrowth",
-      "#オーイシ武道館",
-      "#GMMTVStarlympics2026",
-      "CHARLOTTE X EFW2026",
-      "नंदन यादव",
-      "LO THE TOUCH BLUEPRINT",
-      "白山大賞典",
-      "インフィールドフライ",
-      "FILMLUNAR AT GARNIER LAB",
-      "FIRSTONE AT CENTRALWORLD",
-      "私の彼氏",
-      "Nandan Yadav",
-      "Isha Rikhi"
-    ],
-    "ai_trends": [
-      {
-        "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
-        "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-        "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
-      },
-      {
-        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-        "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-        "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
-      },
-      {
-        "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-        "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab y...",
-        "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/"
       }
     ]
   }
