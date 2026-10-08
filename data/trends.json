@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-08",
+    "timestamp": "11:32 AM",
+    "general_trends": [
+      "with 카카오뱅크",
+      "#RENxWilliam",
+      "#IAFDay",
+      "アイカツ",
+      "#One8OnBlinkit",
+      "#ซีนุนิวมาให้เติมแล้วจ้า",
+      "#UnstoppableBharat",
+      "ルーカス",
+      "TLE AT CENTRALWORLD",
+      "Travel Today",
+      "田中秀太",
+      "PERTHSANTA BEAUTY BLOOM",
+      "Foxsky Best Diwali Sale",
+      "नाना पाटेकर",
+      "UnBox Fosxy BBD Sale"
+    ],
+    "ai_trends": [
+      {
+        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+        "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+        "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+      },
+      {
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+      },
+      {
+        "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
+        "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+        "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "timestamp": "11:16 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
         "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
         "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-24",
-    "timestamp": "9:26 AM",
-    "general_trends": [
-      "#deprem",
-      "#MahaRPETAbhiyaan2026",
-      "#RungtaSteelEkDumSolid",
-      "#şanlıurfa",
-      "#MiviOne5G",
-      "くりまんじゅうだらけくじ",
-      "West",
-      "如月千早",
-      "世界新記録",
-      "スキン大会",
-      "連休明け",
-      "酒の免許",
-      "Karaköprü",
-      "ソーラーパネル",
-      "Andi Gani Provokator"
-    ],
-    "ai_trends": [
-      {
-        "title": "Everything new coming to Meta&#8217;s AI agent Muse",
-        "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI gl...",
-        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
-      },
-      {
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
-      },
-      {
-        "title": "Meta introduces camera-free AI glasses",
-        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
       }
     ]
   }
