@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-09",
+    "timestamp": "11:27 AM",
+    "general_trends": [
+      "#それスノ",
+      "#เพลงจูบByTLEMATIMUN",
+      "SAFE ZONE OST MR FANBOY",
+      "#Jam12Serba10RibuTikTokShop",
+      "#CORTISATF1",
+      "#PPHALLOWEENPARTY",
+      "Navi Pillay",
+      "NO KP NO FUN RAF2",
+      "サムレムコラボ復刻",
+      "Promo Guncang 10.10",
+      "浮所くん",
+      "レオセアラ",
+      "青春アミーゴ",
+      "Flash Sale 10 Ribu",
+      "JAMES FLAT OUT NO LIFT"
+    ],
+    "ai_trends": [
+      {
+        "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
+        "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to r...",
+        "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
+      },
+      {
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI sa...",
+        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+      },
+      {
+        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+        "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is provin...",
+        "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-08",
     "timestamp": "11:32 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
         "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
         "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-25",
-    "timestamp": "9:44 AM",
-    "general_trends": [
-      "#SHUFFLE",
-      "#MahaRpetAbhiyaan26",
-      "#TheVVAANInCinemasNow",
-      "#Suraag2On_DDNational",
-      "#NayaUPOnTheWorldStage",
-      "チキチー",
-      "中秋の名月",
-      "Local To Global UP",
-      "Papua Sah Dalam NKRI",
-      "REBECCA AT TODS MFW26",
-      "Cleveland",
-      "Hayırlı Cumalar",
-      "Alia Bhatt",
-      "여자농구",
-      "封神演義展"
-    ],
-    "ai_trends": [
-      {
-        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-        "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
-      },
-      {
-        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-        "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-        "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/"
-      },
-      {
-        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-        "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-        "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
       }
     ]
   }
