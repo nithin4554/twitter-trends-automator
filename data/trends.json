@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-10",
+    "timestamp": "10:44 AM",
+    "general_trends": [
+      "#オールスター感謝祭2026秋",
+      "#名探偵コナン",
+      "カナリオ",
+      "ホームラン",
+      "ライデル",
+      "#SiamParagonBIFW2026xOrm",
+      "ORM CHATO DANCING FLOWER",
+      "横浜優勝",
+      "#JantarManatar",
+      "#CATEXPOPKORATxDEXX",
+      "感謝マルチガチャ",
+      "最大5体ゲット",
+      "人達同士",
+      "れおほー",
+      "平次と和葉"
+    ],
+    "ai_trends": [
+      {
+        "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+      },
+      {
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+      },
+      {
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "timestamp": "11:27 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "I created an interactive digital avatar of myself — and you can talk to it",
         "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
         "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-26",
-    "timestamp": "9:28 AM",
-    "general_trends": [
-      "#ガルアワ2026AW",
-      "#サシタビ",
-      "れおほー",
-      "マジック4",
-      "#ねぽっくすday1",
-      "#AFLGF",
-      "#iPhone18DiscountOnCheQ",
-      "Freo",
-      "JOONGDUNK JAIDEE SEOUL SMILES",
-      "Wharfie Time",
-      "NIHARIKA ERA BEGINS IN RF2",
-      "ヴァルツァーシャル",
-      "シリウスS",
-      "ランウェイ",
-      "おかわりさん"
-    ],
-    "ai_trends": [
-      {
-        "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
-        "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
-      },
-      {
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
-      },
-      {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
-        "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
       }
     ]
   }
