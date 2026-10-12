@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-12",
+    "timestamp": "12:19 PM",
+    "general_trends": [
+      "#CDTVライブライブ",
+      "#2026MAMAVOTE",
+      "#超特急神フィバってる",
+      "バッタマン",
+      "#Day6FirstOne",
+      "8 PER 7 MV TEASER",
+      "Zeta",
+      "#Ni_REBON",
+      "PSD FAMILY 37TH KINGPOWER",
+      "スピッツ",
+      "ハルくん",
+      "鵺の陰陽師アニメ化",
+      "I VOTE",
+      "DEWTEE FANSIGN FANIVAL",
+      "ブーナちゃん"
+    ],
+    "ai_trends": [
+      {
+        "title": "Will the HomeView be Apple’s first smart home success?",
+        "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+        "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
+      },
+      {
+        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+        "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other de...",
+        "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+      },
+      {
+        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+        "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+        "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "timestamp": "10:57 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "OpenAI reportedly ditches model over safety concerns",
         "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
         "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "timestamp": "11:08 AM",
-    "general_trends": [
-      "#学マス小悪魔配信",
-      "GRABFOOD WITH PERTHSANTA",
-      "#帰れマンデー",
-      "#thisisjimin",
-      "ベネズエラ",
-      "#LingOrmDiorAirportLook",
-      "エリオス",
-      "NANI JOINS RGBLED BIRTHDAY",
-      "LINGORM FLY TO DIOR PFW",
-      "#WeSupportShehzadRNF2",
-      "Deniz Göktaş",
-      "リーリヤ",
-      "ジャクソン",
-      "BJP MLC Fraud Degree",
-      "アナザー"
-    ],
-    "ai_trends": [
-      {
-        "title": "Anthropic’s CEO is about to have dinner with President Trump",
-        "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
-      },
-      {
-        "title": "Can Muse overcome Meta’s trust issues?",
-        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
-      },
-      {
-        "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-        "summary": "\"AI is the devil and I its maker.\"",
-        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
       }
     ]
   }
