@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-13",
+    "timestamp": "12:03 PM",
+    "general_trends": [
+      "#うたコン",
+      "#LulaPeloMei",
+      "#SteamDeckで遊びたいゲーム",
+      "#バナナサンド",
+      "層の家庭",
+      "#櫻坂46_愛MUSTBE",
+      "鈴村さん",
+      "Rwanda",
+      "子どもの頃の夢",
+      "アルジュン",
+      "あなたの一度",
+      "朝倉くん",
+      "最後の仕事",
+      "虚血性心疾患",
+      "普通の家庭"
+    ],
+    "ai_trends": [
+      {
+        "title": "Meta releases its first frontier model, Muse Wonder",
+        "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on comp...",
+        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+      },
+      {
+        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+        "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+        "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+      },
+      {
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "timestamp": "12:19 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "OpenAI&#8217;s latest features take direct aim at the app store model",
         "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
         "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-29",
-    "timestamp": "10:50 AM",
-    "general_trends": [
-      "#初星小悪魔たちの宴",
-      "#きたれ天下五剣",
-      "#ShehzadOnRise",
-      "はつみちゃん",
-      "#UPITS_Unplugged",
-      "#BankNifty_Expiry",
-      "わたしのもの",
-      "リチャード",
-      "井上監督",
-      "あなたの心",
-      "復活当選",
-      "Ferhat Gündoğdu",
-      "甲子園中止",
-      "MIU NATSHA AT AMR POP-UP HK",
-      "イープラス"
-    ],
-    "ai_trends": [
-      {
-        "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-        "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
-      },
-      {
-        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-        "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
-      },
-      {
-        "title": "OpenAI reportedly ditches model over safety concerns",
-        "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
       }
     ]
   }
