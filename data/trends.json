@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-14",
+    "timestamp": "9:39 AM",
+    "general_trends": [
+      "クロージャ",
+      "Halk TV&#x27;ye",
+      "ケルシー",
+      "#تشليح_بارت_طلبك_يوصل__للتشاليح",
+      "政権発足後",
+      "#GönüllerBirOlsun",
+      "#سداد__قرووض__OƼЗ6бб5559",
+      "#تسديد_قروض_OƼЗ6бб5Ƽ9",
+      "#Kademeyiçözeceksiniz",
+      "高橋大輔",
+      "御三家セット",
+      "レンジャーオリジン",
+      "レアカードの抽選",
+      "️ポケカ30年分",
+      "️スニダン"
+    ],
+    "ai_trends": [
+      {
+        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+      },
+      {
+        "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
+        "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+      },
+      {
+        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+        "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+        "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-13",
     "timestamp": "12:03 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
         "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
         "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-30",
-    "timestamp": "10:39 AM",
-    "general_trends": [
-      "#เขมจิรากลับมาอีกครั้ง",
-      "#เขมจิราต้องรอดตลอดกาลSeries",
-      "#KhemjiraForeverTheSeries",
-      "#櫻坂46_BACKSLIVE_DAY2",
-      "#WardahSkinLongevityClinic",
-      "KHEMJIRA IS COMING BACK",
-      "Gojek 1000 Diaplikasi GoPay",
-      "Flydubai",
-      "فلاي دبي",
-      "PRIYANKA COOKED SHEHZAD",
-      "緊急メンテ",
-      "TEAM BHARAT",
-      "大関アナ",
-      "乗り替わり",
-      "野上くん"
-    ],
-    "ai_trends": [
-      {
-        "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
-        "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-        "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/"
-      },
-      {
-        "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
-        "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-        "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
-      },
-      {
-        "title": "OpenAI&#8217;s latest features take direct aim at the app store model",
-        "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-        "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
       }
     ]
   }
