@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-15",
+    "timestamp": "9:17 AM",
+    "general_trends": [
+      "#現在この名前は使われておりません",
+      "#名付け",
+      "TENSILE",
+      "#مصحفك_اجر_لا_ينقطع",
+      "#Jailer2",
+      "#DuaTahunPrabowo",
+      "Capaian Program Pemerintah",
+      "黄泉のツガイ",
+      "サード木浪",
+      "バーガーキング",
+      "ミルフィ",
+      "LNM ONITSUKA OPENING",
+      "Make Your Move",
+      "三重振り子ゴルフ",
+      "Himesh Reshammiya"
+    ],
+    "ai_trends": [
+      {
+        "title": "Figma announces new features to define how agents work on its platform",
+        "summary": "Figma is also releasing its code layers feature in open beta.",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+      },
+      {
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip ...",
+        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+      },
+      {
+        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—c...",
+        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-14",
     "timestamp": "9:39 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
         "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
         "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-01",
-    "timestamp": "11:06 AM",
-    "general_trends": [
-      "ロナルド",
-      "#WeLoveURajaWarring",
-      "Happy New Month",
-      "ドナルド",
-      "#GMMTVFANIVAL2026HappyFamily",
-      "#STARスター",
-      "ノーアウト満塁",
-      "#HunkkaarTheRoar",
-      "Nigeria",
-      "エクアドル",
-      "#XViralwithSahil",
-      "MCARD NEXT GEN WITH TTP",
-      "オントー",
-      "ヴァンビ",
-      "Ronaldo"
-    ],
-    "ai_trends": [
-      {
-        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-        "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
-      },
-      {
-        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-        "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
-      },
-      {
-        "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
-        "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-        "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
       }
     ]
   }
