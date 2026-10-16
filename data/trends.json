@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-16",
+    "timestamp": "9:11 AM",
+    "general_trends": [
+      "緊急地震速報",
+      "#毎週金曜はおつピザ",
+      "M9.9",
+      "意識回復",
+      "docomo",
+      "#FourthConcertD1",
+      "サイバー攻撃",
+      "マグニチュード9.9",
+      "LETS SHOUT OH MY FOURTH",
+      "Tesla",
+      "千島列島",
+      "#DIESELxJENO",
+      "JENO WITH DIESEL",
+      "アラート",
+      "#SeeklovewithTeeteePor"
+    ],
+    "ai_trends": [
+      {
+        "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+        "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+        "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
+      },
+      {
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+      },
+      {
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "timestamp": "9:17 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
         "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
         "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-02",
-    "timestamp": "10:40 AM",
-    "general_trends": [
-      "#RayalaseemaVijayeebhava",
-      "#毎週金曜はおつピザ",
-      "Rama Singh FIR ISKCON",
-      "#SHEEPxTleFirstoneRainy",
-      "WE REIGN PRESS TOUR",
-      "#NATCON2026",
-      "#يوم_الجمعه",
-      "ドムドム",
-      "महात्मा गांधी",
-      "スガキヤ",
-      "パンどろぼう",
-      "Prizmmy",
-      "Hayırlı Cumalar",
-      "गांधी जयंती",
-      "Yoruba"
-    ],
-    "ai_trends": [
-      {
-        "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
-        "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
-      },
-      {
-        "title": "ChatGPT can now virtually try on clothes for you",
-        "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-        "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
-      },
-      {
-        "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
-        "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-        "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
       }
     ]
   }
