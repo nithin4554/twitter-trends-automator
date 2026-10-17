@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-17",
+    "timestamp": "8:43 AM",
+    "general_trends": [
+      "シュガークン",
+      "#キングオブコント敗者復活戦",
+      "#JASPERConcert",
+      "#SAMSUNGWallet",
+      "カーインライジング",
+      "喫茶ムーン",
+      "スパイシーガーリック",
+      "#TheRisingSun_InnOngsa",
+      "#夜と昼を別つ双子の片割れアサ",
+      "PERTHSANTA LOST IN LOVE",
+      "江戸川ジャンクジャンク",
+      "堂前さん",
+      "そいつどいつ",
+      "オフローズ",
+      "森下翔太"
+    ],
+    "ai_trends": [
+      {
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer wi...",
+        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      },
+      {
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+      },
+      {
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robo...",
+        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-16",
     "timestamp": "9:11 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "All the AI agents that can live in your text messages",
         "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
         "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-03",
-    "timestamp": "9:59 AM",
-    "general_trends": [
-      "#IndvsPak",
-      "#阪神タイガース",
-      "らぶフェス",
-      "こいほー",
-      "BRING BACK RHITI BB20",
-      "#AsianGames",
-      "#दुग्ध_क्रांति_MP",
-      "#CREDAINATCON2026",
-      "胴上げ阻止",
-      "真剣乱舞祭2026",
-      "Shruti Choudhry",
-      "ミュージカル刀剣乱舞",
-      "スタンダード指定席",
-      "TMK X COLGATE",
-      "アウトカウント"
-    ],
-    "ai_trends": [
-      {
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-        "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
-      },
-      {
-        "title": "Sean Parker is rebuilding Stability AI around music",
-        "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
-      },
-      {
-        "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-        "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-        "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
       }
     ]
   }
