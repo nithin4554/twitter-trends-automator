@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-18",
+    "timestamp": "8:59 AM",
+    "general_trends": [
+      "モンローウォーク",
+      "ギャラボーグ",
+      "ドリームコア",
+      "#秋華賞",
+      "#FourthConcertD3",
+      "OH MY BEST DAY WITH FOURTH",
+      "#Spirit",
+      "フランス",
+      "#FIT18xNuNew",
+      "#ProudOfKongJiro",
+      "ルメール",
+      "マスターソアラ",
+      "サムシングスイート",
+      "ラベルセーヌ",
+      "スウィートハピネス"
+    ],
+    "ai_trends": [
+      {
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+      },
+      {
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+      },
+      {
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-17",
     "timestamp": "8:43 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Trump unveils his new Super Intelligence Force",
         "summary": "This new task force is Trump's latest response to the debate over AI safety.",
         "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-04",
-    "timestamp": "10:42 AM",
-    "general_trends": [
-      "#BahrainGP",
-      "#WilliamEstConcert",
-      "#髙橋海人KAITOソロシングルリリース",
-      "#kpssonlisans",
-      "Ferrari",
-      "CRカップ",
-      "セイウンハーデス",
-      "#f1jp",
-      "Lewis",
-      "凱旋門賞",
-      "天使の日",
-      "Hamilton",
-      "GEMINIFOURTH LKN AT PATTAYA",
-      "THAI TASTE THAI FEST X PNB",
-      "ホウオウビスケッツ"
-    ],
-    "ai_trends": [
-      {
-        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-        "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
-      },
-      {
-        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-        "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
-      },
-      {
-        "title": "All the AI agents that can live in your text messages",
-        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
       }
     ]
   }
