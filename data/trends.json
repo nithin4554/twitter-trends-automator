@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-19",
+    "timestamp": "10:09 AM",
+    "general_trends": [
+      "#ScarletHeartTH",
+      "緩和ケア",
+      "#DREAMSCAPE_OutNow",
+      "#FirstOne2ndShowcaseDay",
+      "#정한X조슈아_열두시의_꿈",
+      "FIRSTONE 8PER7 DAY",
+      "だーまえ",
+      "#国会正門前大行動1019",
+      "麻枝さん",
+      "Denda Emiten Oligarki",
+      "JoongDunk",
+      "HUG E LHEE Q9",
+      "Charlotte LIVE WITH LINE MAN",
+      "19 ekim muhtarlar günü",
+      "ヘブバン"
+    ],
+    "ai_trends": [
+      {
+        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+      },
+      {
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward w...",
+        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+      },
+      {
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-18",
     "timestamp": "8:59 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Instinct brings its AI agent to group chats, even for friends without an account",
         "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain s...",
         "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-05",
-    "timestamp": "11:45 AM",
-    "general_trends": [
-      "#SUPERAGENTPP",
-      "#CDTVライブライブ",
-      "#فجر_اليمن",
-      "#全世界にアディオス",
-      "焼肉きんぐ",
-      "#سداد_قروض_الاهلي_θƼ02θƼ9ƼƼб",
-      "باب المندب",
-      "Gojek Mulai 1000 DiGoPay",
-      "ニュージーランド",
-      "情報漏洩",
-      "情報流出",
-      "Pedro Sánchez",
-      "センセーション",
-      "ファンフェス",
-      "ヴァンパイア十字界"
-    ],
-    "ai_trends": [
-      {
-        "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-        "summary": "AI slop seems to be overwhelming bug bounty programs.",
-        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
-      },
-      {
-        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-        "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
-      },
-      {
-        "title": "Trump unveils his new Super Intelligence Force",
-        "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
       }
     ]
   }
