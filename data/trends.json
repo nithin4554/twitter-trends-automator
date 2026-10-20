@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-20",
+    "timestamp": "9:33 AM",
+    "general_trends": [
+      "#EndSARS",
+      "#DataCenterBatam",
+      "男女の身長対応",
+      "Investasi AI Batam",
+      "土田さん",
+      "#楽天証券iDeCo",
+      "#HappyDussehra",
+      "#ChudThaiXOrmKornnaphat",
+      "応募可能",
+      "豪華賞品",
+      "カクレンジャー",
+      "FILMRACHA X MARDI",
+      "LOVE OF SIAM PRESS TOUR",
+      "Wujudkan Program Strategis",
+      "PNB AT NATION FORUM"
+    ],
+    "ai_trends": [
+      {
+        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+      },
+      {
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+      },
+      {
+        "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
+        "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with...",
+        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-19",
     "timestamp": "10:09 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
         "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
         "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-06",
-    "timestamp": "11:26 AM",
-    "general_trends": [
-      "#神業チャレンジ",
-      "#HMDXSreeleela",
-      "#vivoV80",
-      "#Moonlit",
-      "#おふうかい",
-      "SANTA WITH VENUS AT TOPS",
-      "Ebola",
-      "ひとつの肝臓",
-      "自分の情報",
-      "TRAILER KHEMJIRA FOREVER",
-      "デジタル庁",
-      "くりまんじゅう先輩",
-      "個人情報",
-      "最多安打",
-      "マゴさん"
-    ],
-    "ai_trends": [
-      {
-        "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-        "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-        "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
-      },
-      {
-        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI sy...",
-        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
-      },
-      {
-        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-        "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain s...",
-        "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
       }
     ]
   }
