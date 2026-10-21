@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-21",
+    "timestamp": "9:29 AM",
+    "general_trends": [
+      "#LNGSHOT_MASTERPIECE",
+      "#롱샷_너라는_명작",
+      "#LNGSHOT_SWISH",
+      "MASTERPIECE MV OUT NOW",
+      "#ANAPARAKirmiziCizgimiz",
+      "ポケカのパック",
+      "#DolandırılmaRiskiAlmadık",
+      "レアカードの抽選",
+      "️スニダン",
+      "️ポケカ30年分",
+      "READY TO REFLEXION",
+      "MAGIC LOVER Q5",
+      "Jackdaw",
+      "コドモン",
+      "पुलिस स्मृति"
+    ],
+    "ai_trends": [
+      {
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+      },
+      {
+        "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
+        "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
+      },
+      {
+        "title": "Anthropic’s cloud partnerships are getting messy",
+        "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November ...",
+        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-20",
     "timestamp": "9:33 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
         "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
         "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-07",
-    "timestamp": "11:16 AM",
-    "general_trends": [
-      "ノーベル化学賞",
-      "#GalaxyS25For57999",
-      "#CemilTugayaMesajım",
-      "İzmir",
-      "#ひなた坂46LIVE_DAY2",
-      "ジャパンダートクラシック",
-      "#INSTAMART_QIM_SALE",
-      "#1MilyonUstuneANAPARA",
-      "三角チョコパイ",
-      "JASPER CONCERT PRESSTOUR",
-      "イッテラッシャイ",
-      "ロススト",
-      "ワンダーディーン",
-      "グランド",
-      "不斉自己触媒反応"
-    ],
-    "ai_trends": [
-      {
-        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-        "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-        "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
-      },
-      {
-        "title": "How AI decision models could change content moderation",
-        "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-        "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
-      },
-      {
-        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-        "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-        "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
       }
     ]
   }
