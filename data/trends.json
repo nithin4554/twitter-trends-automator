@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-22",
+    "timestamp": "9:33 AM",
+    "general_trends": [
+      "ドラフト",
+      "織田くん",
+      "一本釣り",
+      "強行指名",
+      "渡部くん",
+      "榊原くん",
+      "ジャイアンツ",
+      "菰田単独",
+      "ヤクルト",
+      "単独指名",
+      "宮原くん",
+      "有馬くん",
+      "星野くん",
+      "松井秀喜",
+      "織田翔希"
+    ],
+    "ai_trends": [
+      {
+        "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+        "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+        "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+      },
+      {
+        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building a...",
+        "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
+      },
+      {
+        "title": "Meta says Muse has over 10M users, with shopping a top activity",
+        "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+        "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-21",
     "timestamp": "9:29 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Ben Affleck is an AI nerd, and the internet is impressed",
         "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is provin...",
         "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-08",
-    "timestamp": "11:32 AM",
-    "general_trends": [
-      "with 카카오뱅크",
-      "#RENxWilliam",
-      "#IAFDay",
-      "アイカツ",
-      "#One8OnBlinkit",
-      "#ซีนุนิวมาให้เติมแล้วจ้า",
-      "#UnstoppableBharat",
-      "ルーカス",
-      "TLE AT CENTRALWORLD",
-      "Travel Today",
-      "田中秀太",
-      "PERTHSANTA BEAUTY BLOOM",
-      "Foxsky Best Diwali Sale",
-      "नाना पाटेकर",
-      "UnBox Fosxy BBD Sale"
-    ],
-    "ai_trends": [
-      {
-        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-        "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-        "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
-      },
-      {
-        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-        "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-      },
-      {
-        "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
-        "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-        "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
       }
     ]
   }
