@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-23",
+    "timestamp": "9:28 AM",
+    "general_trends": [
+      "松井秀喜",
+      "佐川急便",
+      "#LYKNReflexionConcertD1",
+      "#LoversAndGangsters",
+      "#ゴンチャの新作",
+      "#毎週金曜はおつピザ",
+      "なしとりんご",
+      "#RoVTPOPTournament",
+      "村上龍さん",
+      "SHEEP BINT CRAYON SHINCHAN",
+      "松井監督",
+      "THE REFLEXION BEGINS",
+      "Hayırlı Cumalar",
+      "FO 2ND SINGLE PRESS R2",
+      "LENAMIU LOVE MEETS IN TAIPEI"
+    ],
+    "ai_trends": [
+      {
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+      },
+      {
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+      },
+      {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "timestamp": "9:33 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
         "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
         "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-09",
-    "timestamp": "11:27 AM",
-    "general_trends": [
-      "#それスノ",
-      "#เพลงจูบByTLEMATIMUN",
-      "SAFE ZONE OST MR FANBOY",
-      "#Jam12Serba10RibuTikTokShop",
-      "#CORTISATF1",
-      "#PPHALLOWEENPARTY",
-      "Navi Pillay",
-      "NO KP NO FUN RAF2",
-      "サムレムコラボ復刻",
-      "Promo Guncang 10.10",
-      "浮所くん",
-      "レオセアラ",
-      "青春アミーゴ",
-      "Flash Sale 10 Ribu",
-      "JAMES FLAT OUT NO LIFT"
-    ],
-    "ai_trends": [
-      {
-        "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
-        "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to r...",
-        "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
-      },
-      {
-        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI sa...",
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-      },
-      {
-        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-        "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is provin...",
-        "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
       }
     ]
   }
