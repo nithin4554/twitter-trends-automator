@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-24",
+    "timestamp": "9:00 AM",
+    "general_trends": [
+      "#集えNIKKE4周年",
+      "#별의_궤적이_빛나는_1위",
+      "乗車準備会",
+      "東京ドーム公演記念",
+      "入場者特典",
+      "#LYKNReflexionConcertD2",
+      "プルヴィナル",
+      "#ViroteDoExercito",
+      "#FlavioSurubinha",
+      "アルテミスS",
+      "TFO THE GIVING SINGER",
+      "CULTURAL HERITAGE RECOGNITION",
+      "能動的サイバー防御",
+      "ラポスタ",
+      "リスグロワール"
+    ],
+    "ai_trends": [
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+      },
+      {
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+      },
+      {
+        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+        "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch...",
+        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "timestamp": "9:28 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
         "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200...",
         "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-10",
-    "timestamp": "10:44 AM",
-    "general_trends": [
-      "#オールスター感謝祭2026秋",
-      "#名探偵コナン",
-      "カナリオ",
-      "ホームラン",
-      "ライデル",
-      "#SiamParagonBIFW2026xOrm",
-      "ORM CHATO DANCING FLOWER",
-      "横浜優勝",
-      "#JantarManatar",
-      "#CATEXPOPKORATxDEXX",
-      "感謝マルチガチャ",
-      "最大5体ゲット",
-      "人達同士",
-      "れおほー",
-      "平次と和葉"
-    ],
-    "ai_trends": [
-      {
-        "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
-      },
-      {
-        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-      },
-      {
-        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
       }
     ]
   }
