@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-26",
+    "timestamp": "10:23 AM",
+    "general_trends": [
+      "#MISTINExPUINOONBINT",
+      "PNB THE UNDERGROUND",
+      "#EVEANDBOYxLenaMiu",
+      "LENAMIU AT EVEANDBOY SQ1",
+      "#ใครเอาดอกไม้มาวาง",
+      "Komanche",
+      "プリクル",
+      "#TümFonzedeninOyuANAPARAya",
+      "#InstantSloMo",
+      "Terörsüz Bölge",
+      "髙橋遥人",
+      "アナコンダ",
+      "NEX BSC EVENT",
+      "高橋遥人",
+      "ドリームマッチB賞"
+    ],
+    "ai_trends": [
+      {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+      },
+      {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+      },
+      {
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "timestamp": "9:17 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Honeyjar offers AI tools to improve PR and comms at every company",
         "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
         "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-12",
-    "timestamp": "12:19 PM",
-    "general_trends": [
-      "#CDTVライブライブ",
-      "#2026MAMAVOTE",
-      "#超特急神フィバってる",
-      "バッタマン",
-      "#Day6FirstOne",
-      "8 PER 7 MV TEASER",
-      "Zeta",
-      "#Ni_REBON",
-      "PSD FAMILY 37TH KINGPOWER",
-      "スピッツ",
-      "ハルくん",
-      "鵺の陰陽師アニメ化",
-      "I VOTE",
-      "DEWTEE FANSIGN FANIVAL",
-      "ブーナちゃん"
-    ],
-    "ai_trends": [
-      {
-        "title": "Will the HomeView be Apple’s first smart home success?",
-        "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-        "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
-      },
-      {
-        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-        "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other de...",
-        "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
-      },
-      {
-        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-        "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-        "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
       }
     ]
   }
