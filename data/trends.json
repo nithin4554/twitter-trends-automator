@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-28",
+    "timestamp": "10:44 AM",
+    "general_trends": [
+      "#出身地当てます",
+      "答えの組み合わせ",
+      "#雨夜燕貴様検定",
+      "純度100",
+      "Toledo",
+      "KNP OHAE V80",
+      "#vivoV80xKengNamping",
+      "Adamuz",
+      "Óscar Puente",
+      "Iryo",
+      "思い出のポケカ",
+      "#AnantAmbani",
+      "#jioipolisting",
+      "単独カウコン",
+      "シーサーだらけくじ"
+    ],
+    "ai_trends": [
+      {
+        "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
+        "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+      },
+      {
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+      },
+      {
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-27",
     "timestamp": "9:58 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
         "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—c...",
         "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-14",
-    "timestamp": "9:39 AM",
-    "general_trends": [
-      "クロージャ",
-      "Halk TV&#x27;ye",
-      "ケルシー",
-      "#تشليح_بارت_طلبك_يوصل__للتشاليح",
-      "政権発足後",
-      "#GönüllerBirOlsun",
-      "#سداد__قرووض__OƼЗ6бб5559",
-      "#تسديد_قروض_OƼЗ6бб5Ƽ9",
-      "#Kademeyiçözeceksiniz",
-      "高橋大輔",
-      "御三家セット",
-      "レンジャーオリジン",
-      "レアカードの抽選",
-      "️ポケカ30年分",
-      "️スニダン"
-    ],
-    "ai_trends": [
-      {
-        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-        "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
-      },
-      {
-        "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-        "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
-      },
-      {
-        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-        "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-        "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
       }
     ]
   }
