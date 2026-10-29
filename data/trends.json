@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-29",
+    "timestamp": "11:01 AM",
+    "general_trends": [
+      "#TeeteePorXChopard",
+      "アリツア",
+      "#咲き乱れみこち",
+      "#29Ekim",
+      "#ScarletHeartUllavee",
+      "#プレバト",
+      "ミアキス",
+      "APASRA WACAY SUNDAY GARDEN",
+      "槙野監督",
+      "JUNIORMARK RAVIPA X HARRY",
+      "年5000円",
+      "JJJSPACE FANSIGN",
+      "エーデルワイス賞",
+      "Central 79 Years x Namtan Film",
+      "たまごっち診断"
+    ],
+    "ai_trends": [
+      {
+        "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
+        "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+      },
+      {
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+      },
+      {
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous fin...",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-28",
     "timestamp": "10:44 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
         "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
         "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-15",
-    "timestamp": "9:17 AM",
-    "general_trends": [
-      "#現在この名前は使われておりません",
-      "#名付け",
-      "TENSILE",
-      "#مصحفك_اجر_لا_ينقطع",
-      "#Jailer2",
-      "#DuaTahunPrabowo",
-      "Capaian Program Pemerintah",
-      "黄泉のツガイ",
-      "サード木浪",
-      "バーガーキング",
-      "ミルフィ",
-      "LNM ONITSUKA OPENING",
-      "Make Your Move",
-      "三重振り子ゴルフ",
-      "Himesh Reshammiya"
-    ],
-    "ai_trends": [
-      {
-        "title": "Figma announces new features to define how agents work on its platform",
-        "summary": "Figma is also releasing its code layers feature in open beta.",
-        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
-      },
-      {
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip ...",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
-      },
-      {
-        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-        "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—c...",
-        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
       }
     ]
   }
