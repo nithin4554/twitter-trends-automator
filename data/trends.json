@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-30",
+    "timestamp": "10:58 AM",
+    "general_trends": [
+      "ハロウィン",
+      "#OrmSMILEwithB03X",
+      "ORM BA LEAPMOTOR B03X",
+      "#毎週金曜はおつピザ",
+      "#スパリク_ハローコンダクターCP",
+      "#LoversAndGangstersEP1",
+      "Binance",
+      "#يوم_الجمعه",
+      "FORCEBOOK LAG EP1",
+      "最新情報",
+      "引き取り希望",
+      "人的補償",
+      "JOSSGAWIN MAKRO HORECA",
+      "Hayırlı Cumalar",
+      "オルガマリー"
+    ],
+    "ai_trends": [
+      {
+        "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
+        "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+      },
+      {
+        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+        "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+      },
+      {
+        "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
+        "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-29",
     "timestamp": "11:01 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
         "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robo...",
         "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-16",
-    "timestamp": "9:11 AM",
-    "general_trends": [
-      "緊急地震速報",
-      "#毎週金曜はおつピザ",
-      "M9.9",
-      "意識回復",
-      "docomo",
-      "#FourthConcertD1",
-      "サイバー攻撃",
-      "マグニチュード9.9",
-      "LETS SHOUT OH MY FOURTH",
-      "Tesla",
-      "千島列島",
-      "#DIESELxJENO",
-      "JENO WITH DIESEL",
-      "アラート",
-      "#SeeklovewithTeeteePor"
-    ],
-    "ai_trends": [
-      {
-        "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
-        "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-        "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
-      },
-      {
-        "title": "Meta launches an open-weight AI model that runs on Macs",
-        "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
-      },
-      {
-        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-        "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-        "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
       }
     ]
   }
