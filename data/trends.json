@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-10-31",
+    "timestamp": "10:31 AM",
+    "general_trends": [
+      "ハロウィン",
+      "Happy Halloween",
+      "#ぶいすぽ年末カウントダウン2026",
+      "あなたの運勢",
+      "ぶいすぽっ",
+      "#BornToBeNuNewConcertD1",
+      "#YouManiacSeriesFinalEP",
+      "MANIAC FINAL MOMENT",
+      "#MUSICFAIR",
+      "イタズラ",
+      "#LingOrmSmoothEGlowlympic",
+      "LINGORM SMOOTH E FUN DAY",
+      "コスプレ",
+      "トリックオアトリート",
+      "Initial Agent Offering"
+    ],
+    "ai_trends": [
+      {
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+      },
+      {
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+      },
+      {
+        "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
+        "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-30",
     "timestamp": "10:58 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Replit makes OpenAI its default over Anthropic, CEO says",
         "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
         "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-17",
-    "timestamp": "8:43 AM",
-    "general_trends": [
-      "シュガークン",
-      "#キングオブコント敗者復活戦",
-      "#JASPERConcert",
-      "#SAMSUNGWallet",
-      "カーインライジング",
-      "喫茶ムーン",
-      "スパイシーガーリック",
-      "#TheRisingSun_InnOngsa",
-      "#夜と昼を別つ双子の片割れアサ",
-      "PERTHSANTA LOST IN LOVE",
-      "江戸川ジャンクジャンク",
-      "堂前さん",
-      "そいつどいつ",
-      "オフローズ",
-      "森下翔太"
-    ],
-    "ai_trends": [
-      {
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer wi...",
-        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
-      },
-      {
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-      },
-      {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robo...",
-        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
       }
     ]
   }
