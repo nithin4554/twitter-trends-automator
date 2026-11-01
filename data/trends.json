@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-01",
+    "timestamp": "11:26 AM",
+    "general_trends": [
+      "#カミガタフェスやってるで_生配信",
+      "#BornToBeNuNewConcertD2",
+      "NUNEW 2ND CON DAY2",
+      "#鉄腕DASH",
+      "ダノンデサイル",
+      "Happy New Month",
+      "#結束バンド",
+      "#ธี่หยดสมิงเขาขวางxหลิงออม",
+      "MAJOR FANDOM LINGORM",
+      "ネブラディスク",
+      "カウコン",
+      "रामलीला मैदान",
+      "metin öztürk",
+      "レガレイラ",
+      "アンダルシア"
+    ],
+    "ai_trends": [
+      {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+      },
+      {
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your...",
+        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+      },
+      {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+      }
+    ]
+  },
+  {
     "date": "2026-10-31",
     "timestamp": "10:31 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Meta removes language that raised scraping and AI training concerns",
         "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
         "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-18",
-    "timestamp": "8:59 AM",
-    "general_trends": [
-      "モンローウォーク",
-      "ギャラボーグ",
-      "ドリームコア",
-      "#秋華賞",
-      "#FourthConcertD3",
-      "OH MY BEST DAY WITH FOURTH",
-      "#Spirit",
-      "フランス",
-      "#FIT18xNuNew",
-      "#ProudOfKongJiro",
-      "ルメール",
-      "マスターソアラ",
-      "サムシングスイート",
-      "ラベルセーヌ",
-      "スウィートハピネス"
-    ],
-    "ai_trends": [
-      {
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-      },
-      {
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
-      },
-      {
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
       }
     ]
   }
