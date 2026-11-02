@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-02",
+    "timestamp": "12:45 PM",
+    "general_trends": [
+      "#CDTVライブライブ",
+      "#THEバトルSHOW",
+      "#Aqours",
+      "命の砂時計",
+      "#işinUcuArtıkÖdemeyeGelsin",
+      "#ClaimVoucherHadiahRatusanJuta",
+      "ア・ポステリオリ",
+      "TREASURE SHOCK OUT NOW",
+      "フレネミー診断",
+      "GMOの会見",
+      "Braj Raj Mahotsav 2026",
+      "ラポネ選抜",
+      "野々村議員",
+      "Promo Guncang 11.11",
+      "LINGLING BA SPACE7"
+    ],
+    "ai_trends": [
+      {
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+      },
+      {
+        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+      },
+      {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-01",
     "timestamp": "11:26 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
         "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with...",
         "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-19",
-    "timestamp": "10:09 AM",
-    "general_trends": [
-      "#ScarletHeartTH",
-      "緩和ケア",
-      "#DREAMSCAPE_OutNow",
-      "#FirstOne2ndShowcaseDay",
-      "#정한X조슈아_열두시의_꿈",
-      "FIRSTONE 8PER7 DAY",
-      "だーまえ",
-      "#国会正門前大行動1019",
-      "麻枝さん",
-      "Denda Emiten Oligarki",
-      "JoongDunk",
-      "HUG E LHEE Q9",
-      "Charlotte LIVE WITH LINE MAN",
-      "19 ekim muhtarlar günü",
-      "ヘブバン"
-    ],
-    "ai_trends": [
-      {
-        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-        "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
-      },
-      {
-        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-        "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward w...",
-        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
-      },
-      {
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
       }
     ]
   }
