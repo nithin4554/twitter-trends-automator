@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-03",
+    "timestamp": "12:12 PM",
+    "general_trends": [
+      "#GMMTVNEXT",
+      "WILLIAMEST NEXT STEP",
+      "#バナナサンド",
+      "Jesús de Miguel",
+      "PERTHSANTA DOMIIA BLAST OFF",
+      "PONDPHUWIN PERMPOON THE NEXT",
+      "GEMINIFOURTH LKN STEP UNLOCK",
+      "#AkMasallarFonlaKARARDI",
+      "#HighandLowSeries",
+      "#williamjkp",
+      "SKYNANI DYNAMIC DUO",
+      "MILKLOVE MUVING TOGETHER",
+      "Tenerife",
+      "JOSSGAWIN READY FOR NEXT",
+      "ALWAYS NEXT TO DUNK"
+    ],
+    "ai_trends": [
+      {
+        "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+        "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+      },
+      {
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+      },
+      {
+        "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+        "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "timestamp": "12:45 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Anthropic’s cloud partnerships are getting messy",
         "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November ...",
         "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-20",
-    "timestamp": "9:33 AM",
-    "general_trends": [
-      "#EndSARS",
-      "#DataCenterBatam",
-      "男女の身長対応",
-      "Investasi AI Batam",
-      "土田さん",
-      "#楽天証券iDeCo",
-      "#HappyDussehra",
-      "#ChudThaiXOrmKornnaphat",
-      "応募可能",
-      "豪華賞品",
-      "カクレンジャー",
-      "FILMRACHA X MARDI",
-      "LOVE OF SIAM PRESS TOUR",
-      "Wujudkan Program Strategis",
-      "PNB AT NATION FORUM"
-    ],
-    "ai_trends": [
-      {
-        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-        "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
-      },
-      {
-        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-        "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
-      },
-      {
-        "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
-        "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with...",
-        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
       }
     ]
   }
