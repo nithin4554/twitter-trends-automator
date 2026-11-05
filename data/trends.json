@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-05",
+    "timestamp": "12:39 PM",
+    "general_trends": [
+      "#STARスター",
+      "Portugal",
+      "Cristiano Ronaldo",
+      "#お買い物はチナpay",
+      "#iQIYIiJOYTH2027",
+      "キラちゃん",
+      "#SixTONES_WPP",
+      "#KAITO_SALTBOY",
+      "OWNDAYS WITH POND",
+      "البرتغال",
+      "كريستيانو رونالدو",
+      "スピリットサークル",
+      "ベルピット",
+      "メイちゃん",
+      "PERTHSANTA MEMORABLE NIGHT"
+    ],
+    "ai_trends": [
+      {
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+      },
+      {
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+        "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+      },
+      {
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+        "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "timestamp": "12:24 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
         "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
         "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-22",
-    "timestamp": "9:33 AM",
-    "general_trends": [
-      "ドラフト",
-      "織田くん",
-      "一本釣り",
-      "強行指名",
-      "渡部くん",
-      "榊原くん",
-      "ジャイアンツ",
-      "菰田単独",
-      "ヤクルト",
-      "単独指名",
-      "宮原くん",
-      "有馬くん",
-      "星野くん",
-      "松井秀喜",
-      "織田翔希"
-    ],
-    "ai_trends": [
-      {
-        "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
-        "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-        "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
-      },
-      {
-        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-        "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building a...",
-        "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
-      },
-      {
-        "title": "Meta says Muse has over 10M users, with shopping a top activity",
-        "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-        "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
       }
     ]
   }
