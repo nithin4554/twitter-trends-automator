@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-06",
+    "timestamp": "12:21 PM",
+    "general_trends": [
+      "#CentralWestgatexKengNamping",
+      "貴方のサークル",
+      "#アズ生にごリリコラボSP",
+      "#LoversAndGangstersEP2",
+      "FORCEBOOK LAG EP2",
+      "#Emoいぃラジオ",
+      "#C109",
+      "PERTHSANTA HOUSE OF LEE",
+      "あなたのサークル",
+      "Tuchel",
+      "ALL ABOUT YOU X PNB",
+      "COPTERBANK AT OWNDAYS",
+      "西1ホール",
+      "関東東方沖",
+      "THAYA X JOONG X BEAUTRIUM"
+    ],
+    "ai_trends": [
+      {
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+      },
+      {
+        "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+        "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+        "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+      },
+      {
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+        "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-05",
     "timestamp": "12:39 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
         "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch...",
         "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-23",
-    "timestamp": "9:28 AM",
-    "general_trends": [
-      "松井秀喜",
-      "佐川急便",
-      "#LYKNReflexionConcertD1",
-      "#LoversAndGangsters",
-      "#ゴンチャの新作",
-      "#毎週金曜はおつピザ",
-      "なしとりんご",
-      "#RoVTPOPTournament",
-      "村上龍さん",
-      "SHEEP BINT CRAYON SHINCHAN",
-      "松井監督",
-      "THE REFLEXION BEGINS",
-      "Hayırlı Cumalar",
-      "FO 2ND SINGLE PRESS R2",
-      "LENAMIU LOVE MEETS IN TAIPEI"
-    ],
-    "ai_trends": [
-      {
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-        "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
-      },
-      {
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-      },
-      {
-        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-        "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
       }
     ]
   }
