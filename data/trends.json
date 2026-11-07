@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-07",
+    "timestamp": "11:15 AM",
+    "general_trends": [
+      "#DewTeeFanconD1",
+      "#イオンブラックフライデー26",
+      "#PropolizxZeeNuNew",
+      "DEWTEE ACCESS GRANTED",
+      "#こたつでアイス",
+      "#山田涼介ANNP",
+      "ZNN ZON X PROPOLIZ",
+      "SATURDrama WITH JEOLEE",
+      "ハイスタ",
+      "百音ちゃん",
+      "MAGICAL DAY WITH TLEFIRSTONE",
+      "GEHLEEmazing STAR PERFORMER",
+      "小嶋さん",
+      "小嶋陽菜",
+      "📝PROFILE"
+    ],
+    "ai_trends": [
+      {
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "summary": "The deal highlights the challenges of developing massive AI data centers.",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+      },
+      {
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      },
+      {
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-06",
     "timestamp": "12:21 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
         "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
         "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-24",
-    "timestamp": "9:00 AM",
-    "general_trends": [
-      "#集えNIKKE4周年",
-      "#별의_궤적이_빛나는_1위",
-      "乗車準備会",
-      "東京ドーム公演記念",
-      "入場者特典",
-      "#LYKNReflexionConcertD2",
-      "プルヴィナル",
-      "#ViroteDoExercito",
-      "#FlavioSurubinha",
-      "アルテミスS",
-      "TFO THE GIVING SINGER",
-      "CULTURAL HERITAGE RECOGNITION",
-      "能動的サイバー防御",
-      "ラポスタ",
-      "リスグロワール"
-    ],
-    "ai_trends": [
-      {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
-      },
-      {
-        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
-      },
-      {
-        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-        "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch...",
-        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
       }
     ]
   }
