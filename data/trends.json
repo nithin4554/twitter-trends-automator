@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-08",
+    "timestamp": "11:26 AM",
+    "general_trends": [
+      "#Vivant",
+      "#氷渡香名江実装決定",
+      "BBS NATHAN",
+      "#PBBCollab3FirstNomi",
+      "#学マス標ファイナル_DAY2",
+      "#ホロ1GP",
+      "DEWTEE FULLY ACTIVATED",
+      "BBS MIKEE",
+      "香名江さん",
+      "エイプリルフール",
+      "Happy Diwali",
+      "ティレノフ",
+      "BBS ETHAN",
+      "SUNa DI NOMINADO JEOLEE",
+      "BBS NICOLE"
+    ],
+    "ai_trends": [
+      {
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+      },
+      {
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+      },
+      {
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "summary": "The deal highlights the challenges of developing massive AI data centers.",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-07",
     "timestamp": "11:15 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "The hottest AI wearables and gadgets you should know about",
         "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
         "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-25",
-    "timestamp": "9:17 AM",
-    "general_trends": [
-      "ロブチェン",
-      "ゴーイントゥスカイ",
-      "バステール",
-      "#菊花賞",
-      "#SRICHANDSASIMOONRISE",
-      "#LYKNReflexionConcertD3",
-      "コントレイル産駒",
-      "#あべれいじ",
-      "武豊騎手",
-      "#الماده_34_واجب_وطني",
-      "ダノンヒストリー",
-      "新時代の扉",
-      "キンググローリー",
-      "ルメール",
-      "DUNK AT URANUS NAKHON SI"
-    ],
-    "ai_trends": [
-      {
-        "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-      },
-      {
-        "title": "Block&#8217;s new voice model sounds eerily human",
-        "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-      },
-      {
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
       }
     ]
   }
