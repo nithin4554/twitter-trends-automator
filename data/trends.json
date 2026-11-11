@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-11",
+    "timestamp": "12:01 PM",
+    "general_trends": [
+      "#ベストヒット歌謡祭",
+      "ポッキー",
+      "#好きすぎて無限D愛",
+      "#Ni_REBON",
+      "Juice",
+      "Jordi Wild",
+      "#キスマイ心こめて唄うよ",
+      "LOVE涙色",
+      "#AllSelectXKengHarit",
+      "Veterans Day",
+      "KENG WITH ALLSELECT",
+      "ハリドリ",
+      "倉木麻衣",
+      "ベースの日",
+      "舞香ちゃん"
+    ],
+    "ai_trends": [
+      {
+        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+      },
+      {
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+      },
+      {
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "timestamp": "12:53 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Microsoft recorded $10 billion in revenue from OpenAI",
         "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous fin...",
         "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-28",
-    "timestamp": "10:44 AM",
-    "general_trends": [
-      "#出身地当てます",
-      "答えの組み合わせ",
-      "#雨夜燕貴様検定",
-      "純度100",
-      "Toledo",
-      "KNP OHAE V80",
-      "#vivoV80xKengNamping",
-      "Adamuz",
-      "Óscar Puente",
-      "Iryo",
-      "思い出のポケカ",
-      "#AnantAmbani",
-      "#jioipolisting",
-      "単独カウコン",
-      "シーサーだらけくじ"
-    ],
-    "ai_trends": [
-      {
-        "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-        "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
-      },
-      {
-        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-        "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
-      },
-      {
-        "title": "The data center boom has an upside: innovation for the US grid",
-        "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
       }
     ]
   }
