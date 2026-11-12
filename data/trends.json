@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-12",
+    "timestamp": "1:05 PM",
+    "general_trends": [
+      "#CTWxKengNampingXmas",
+      "KNP CHRISTMAS AT CENTRALWORLD",
+      "#CTWxTleFirstOneXmas",
+      "#素のまんま",
+      "#GFMegaGaleกับFriendsofGrab",
+      "#TwentyOneSeries",
+      "GF MEGA GALE x FRIENDS",
+      "乗車準備会",
+      "TTP TWINKLE LIGHTS",
+      "東京ドーム公演記念",
+      "YOU MEAN NOTHING NOW",
+      "エグゼイド新作",
+      "メジャーデビュー",
+      "いちごちゃん",
+      "入場者特典"
+    ],
+    "ai_trends": [
+      {
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+      },
+      {
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-11",
     "timestamp": "12:01 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
         "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
         "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-29",
-    "timestamp": "11:01 AM",
-    "general_trends": [
-      "#TeeteePorXChopard",
-      "アリツア",
-      "#咲き乱れみこち",
-      "#29Ekim",
-      "#ScarletHeartUllavee",
-      "#プレバト",
-      "ミアキス",
-      "APASRA WACAY SUNDAY GARDEN",
-      "槙野監督",
-      "JUNIORMARK RAVIPA X HARRY",
-      "年5000円",
-      "JJJSPACE FANSIGN",
-      "エーデルワイス賞",
-      "Central 79 Years x Namtan Film",
-      "たまごっち診断"
-    ],
-    "ai_trends": [
-      {
-        "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
-        "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-        "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
-      },
-      {
-        "title": "Google expands AI Search ads globally as core ad growth slows",
-        "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-        "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
-      },
-      {
-        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-        "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous fin...",
-        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
       }
     ]
   }
