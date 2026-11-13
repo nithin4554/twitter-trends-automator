@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-13",
+    "timestamp": "12:30 PM",
+    "general_trends": [
+      "#それスノ",
+      "#มหาฤกษ์กินดองพ่อครูน้องเขม",
+      "KHEMJIRA THE WEDDING DAY",
+      "#学マス14人目のアイドル",
+      "作法クイズ",
+      "🧹香名江",
+      "ラポスタ",
+      "Microsoft",
+      "Outlook",
+      "#LolaneChinaxORM",
+      "#NamtanFilmFanconD1",
+      "ORM NOURISHING TABLE",
+      "NAMTANFILM GLAM NIGHT",
+      "画像20枚",
+      "THAI NATIVE FIT X PNB"
+    ],
+    "ai_trends": [
+      {
+        "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
+        "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
+      },
+      {
+        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
+        "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+        "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+      },
+      {
+        "title": "Muse can now place calls to US businesses — if you pay",
+        "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+        "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-12",
     "timestamp": "1:05 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
         "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
         "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-30",
-    "timestamp": "10:58 AM",
-    "general_trends": [
-      "ハロウィン",
-      "#OrmSMILEwithB03X",
-      "ORM BA LEAPMOTOR B03X",
-      "#毎週金曜はおつピザ",
-      "#スパリク_ハローコンダクターCP",
-      "#LoversAndGangstersEP1",
-      "Binance",
-      "#يوم_الجمعه",
-      "FORCEBOOK LAG EP1",
-      "最新情報",
-      "引き取り希望",
-      "人的補償",
-      "JOSSGAWIN MAKRO HORECA",
-      "Hayırlı Cumalar",
-      "オルガマリー"
-    ],
-    "ai_trends": [
-      {
-        "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-        "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
-      },
-      {
-        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-        "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-      },
-      {
-        "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
-        "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
       }
     ]
   }
