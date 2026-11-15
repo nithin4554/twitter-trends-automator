@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-15",
+    "timestamp": "12:09 PM",
+    "general_trends": [
+      "#学マス2_5thアニバーサリー",
+      "#豊臣兄弟",
+      "#ラブライブフェス_Day2",
+      "追加公演",
+      "#フブみこさん",
+      "#松田里奈卒業セレモニー",
+      "デアリングタクト",
+      "東京ドーム",
+      "AO3 IS BACK",
+      "BITEME LINGORM MADEMEDOIT",
+      "オールガンダム検定",
+      "レボライ",
+      "メタモルフォーゼ",
+      "正木くん",
+      "MILKLOVE MUVSICAL HOUSE"
+    ],
+    "ai_trends": [
+      {
+        "title": "Where was Nvidia&#8217;s security team?",
+        "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to C...",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+      },
+      {
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-14",
     "timestamp": "11:40 AM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
         "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
         "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-01",
-    "timestamp": "11:26 AM",
-    "general_trends": [
-      "#カミガタフェスやってるで_生配信",
-      "#BornToBeNuNewConcertD2",
-      "NUNEW 2ND CON DAY2",
-      "#鉄腕DASH",
-      "ダノンデサイル",
-      "Happy New Month",
-      "#結束バンド",
-      "#ธี่หยดสมิงเขาขวางxหลิงออม",
-      "MAJOR FANDOM LINGORM",
-      "ネブラディスク",
-      "カウコン",
-      "रामलीला मैदान",
-      "metin öztürk",
-      "レガレイラ",
-      "アンダルシア"
-    ],
-    "ai_trends": [
-      {
-        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
-      },
-      {
-        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-        "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your...",
-        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
-      },
-      {
-        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
       }
     ]
   }
