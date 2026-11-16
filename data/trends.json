@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-16",
+    "timestamp": "1:02 PM",
+    "general_trends": [
+      "#CDTVライブライブ",
+      "EBiDANフェス",
+      "#テレビミセス",
+      "#CPSausageTheNewEraOfGoodTaste",
+      "ガチ夢中",
+      "CP SAUSAGE WITH PPPFAMILY",
+      "#まほやく旅友診断",
+      "わたしの旅友",
+      "ダイナマイト利休",
+      "#TheMallBangkapiXรวมพลข่มขลัง",
+      "KHOM KHLANG BUSKING",
+      "サンバラ",
+      "羽野先生",
+      "EST SIDE OF THE STORY",
+      "Concealer"
+    ],
+    "ai_trends": [
+      {
+        "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+        "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+        "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+      },
+      {
+        "title": "Apple launches new app to study how people use AI for health",
+        "summary": "Apple's new app for a study will answer everyday medical questions",
+        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+      },
+      {
+        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-15",
     "timestamp": "12:09 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
         "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
         "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-02",
-    "timestamp": "12:45 PM",
-    "general_trends": [
-      "#CDTVライブライブ",
-      "#THEバトルSHOW",
-      "#Aqours",
-      "命の砂時計",
-      "#işinUcuArtıkÖdemeyeGelsin",
-      "#ClaimVoucherHadiahRatusanJuta",
-      "ア・ポステリオリ",
-      "TREASURE SHOCK OUT NOW",
-      "フレネミー診断",
-      "GMOの会見",
-      "Braj Raj Mahotsav 2026",
-      "ラポネ選抜",
-      "野々村議員",
-      "Promo Guncang 11.11",
-      "LINGLING BA SPACE7"
-    ],
-    "ai_trends": [
-      {
-        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-        "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
-      },
-      {
-        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-        "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
-      },
-      {
-        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
       }
     ]
   }
