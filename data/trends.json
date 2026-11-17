@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-17",
+    "timestamp": "1:44 PM",
+    "general_trends": [
+      "#caengames",
+      "私の名前",
+      "楽天証券",
+      "#運命の町当てます",
+      "わたしの運命の町",
+      "#爆裂にザッツ超常初披露",
+      "#MSDhoni",
+      "#うたコン",
+      "テスト環境",
+      "ETERNALLY YOURS OST KJR",
+      "Thala",
+      "Singapura",
+      "LINGORM CALENDAR SIGN EVENT",
+      "GF MEGA GALE PUINOONBINT",
+      "PONDPHUWIN SEASON GIVING"
+    ],
+    "ai_trends": [
+      {
+        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+        "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+      },
+      {
+        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+        "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is i...",
+        "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+      },
+      {
+        "title": "California state AG sues OpenAI over rogue agent incidents",
+        "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+        "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "timestamp": "1:02 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
         "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
         "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-03",
-    "timestamp": "12:12 PM",
-    "general_trends": [
-      "#GMMTVNEXT",
-      "WILLIAMEST NEXT STEP",
-      "#バナナサンド",
-      "Jesús de Miguel",
-      "PERTHSANTA DOMIIA BLAST OFF",
-      "PONDPHUWIN PERMPOON THE NEXT",
-      "GEMINIFOURTH LKN STEP UNLOCK",
-      "#AkMasallarFonlaKARARDI",
-      "#HighandLowSeries",
-      "#williamjkp",
-      "SKYNANI DYNAMIC DUO",
-      "MILKLOVE MUVING TOGETHER",
-      "Tenerife",
-      "JOSSGAWIN READY FOR NEXT",
-      "ALWAYS NEXT TO DUNK"
-    ],
-    "ai_trends": [
-      {
-        "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
-        "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
-      },
-      {
-        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-        "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
-      },
-      {
-        "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
-        "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
       }
     ]
   }
