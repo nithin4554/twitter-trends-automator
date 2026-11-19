@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-19",
+    "timestamp": "1:44 PM",
+    "general_trends": [
+      "平和宣言",
+      "#RalphLaurenSGxNamping",
+      "NAMPING AT RL HOLIDAY",
+      "#DUOONEXFreenBecky",
+      "#OrmxBvlgariatSiamParagon",
+      "DUOONE FINAL MATCH",
+      "#素のまんま",
+      "#ファミ通GTA6プレゼント",
+      "SOON YOU ARE MINE",
+      "ウィクロス",
+      "POND PERMPOON x TSUBAKI",
+      "PERTH SANTA WITH LINE MAN LIVE",
+      "念の強さ",
+      "WIXOSS",
+      "米中ロ首脳"
+    ],
+    "ai_trends": [
+      {
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massi...",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      },
+      {
+        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
+        "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+        "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+      },
+      {
+        "title": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off your team&#8217;",
+        "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+        "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "timestamp": "1:18 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Meta says US users can now video chat with their Muse AI avatar",
         "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
         "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-05",
-    "timestamp": "12:39 PM",
-    "general_trends": [
-      "#STARスター",
-      "Portugal",
-      "Cristiano Ronaldo",
-      "#お買い物はチナpay",
-      "#iQIYIiJOYTH2027",
-      "キラちゃん",
-      "#SixTONES_WPP",
-      "#KAITO_SALTBOY",
-      "OWNDAYS WITH POND",
-      "البرتغال",
-      "كريستيانو رونالدو",
-      "スピリットサークル",
-      "ベルピット",
-      "メイちゃん",
-      "PERTHSANTA MEMORABLE NIGHT"
-    ],
-    "ai_trends": [
-      {
-        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-        "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
-      },
-      {
-        "title": "Apple is reportedly cutting budgets for its internal AI usage",
-        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-        "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
-      },
-      {
-        "title": "After the midterms, a bigger clash over data centers could be coming",
-        "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-        "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
       }
     ]
   }
