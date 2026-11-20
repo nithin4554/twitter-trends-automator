@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-20",
+    "timestamp": "1:27 PM",
+    "general_trends": [
+      "#Mステ",
+      "#藤井風ピアノリサイタル",
+      "ラウール",
+      "福ちゃん",
+      "#ENHYPEN",
+      "#PayPayスクラッチくじ",
+      "#SorryNotSorryPERTHmv",
+      "ロビン配布",
+      "PERTH COMEBACK NOT SORRY",
+      "ふぉ〜ゆ",
+      "ロハちゃん",
+      "ラウちゃん",
+      "ゼンゼロ",
+      "ちーたま",
+      "FORCEBOOK LAG EP4"
+    ],
+    "ai_trends": [
+      {
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+      },
+      {
+        "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+      },
+      {
+        "title": "Meta&#8217;s new Muse Charm device may cost $300",
+        "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+        "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "timestamp": "1:44 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
         "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
         "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-06",
-    "timestamp": "12:21 PM",
-    "general_trends": [
-      "#CentralWestgatexKengNamping",
-      "貴方のサークル",
-      "#アズ生にごリリコラボSP",
-      "#LoversAndGangstersEP2",
-      "FORCEBOOK LAG EP2",
-      "#Emoいぃラジオ",
-      "#C109",
-      "PERTHSANTA HOUSE OF LEE",
-      "あなたのサークル",
-      "Tuchel",
-      "ALL ABOUT YOU X PNB",
-      "COPTERBANK AT OWNDAYS",
-      "西1ホール",
-      "関東東方沖",
-      "THAYA X JOONG X BEAUTRIUM"
-    ],
-    "ai_trends": [
-      {
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
-      },
-      {
-        "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
-        "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-        "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
-      },
-      {
-        "title": "Meta says US users can now video chat with their Muse AI avatar",
-        "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-        "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
       }
     ]
   }
