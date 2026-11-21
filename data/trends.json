@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-21",
+    "timestamp": "12:54 PM",
+    "general_trends": [
+      "#BoycottPBB",
+      "#CANCELPBB",
+      "#PBBCollab3SecondEviction",
+      "エバース",
+      "#ドッキリGP",
+      "#Number_i_RIJF",
+      "ワイルドカード",
+      "ヒーロー名",
+      "ケーちゃん",
+      "ダブルヒガシ",
+      "JANJINGJING MAGIC WORLD",
+      "PNB 1ST FANMEET IN MACAU",
+      "USMILE X ORM KORNNAPHAT",
+      "ちゃんぴおんず",
+      "ジェシカ"
+    ],
+    "ai_trends": [
+      {
+        "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
+        "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+      },
+      {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+      },
+      {
+        "title": "Chips can survive the space environment — can their financing?",
+        "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+        "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-20",
     "timestamp": "1:27 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Crusoe sells troubled Wyoming data center project to Google",
         "summary": "The deal highlights the challenges of developing massive AI data centers.",
         "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-07",
-    "timestamp": "11:15 AM",
-    "general_trends": [
-      "#DewTeeFanconD1",
-      "#イオンブラックフライデー26",
-      "#PropolizxZeeNuNew",
-      "DEWTEE ACCESS GRANTED",
-      "#こたつでアイス",
-      "#山田涼介ANNP",
-      "ZNN ZON X PROPOLIZ",
-      "SATURDrama WITH JEOLEE",
-      "ハイスタ",
-      "百音ちゃん",
-      "MAGICAL DAY WITH TLEFIRSTONE",
-      "GEHLEEmazing STAR PERFORMER",
-      "小嶋さん",
-      "小嶋陽菜",
-      "📝PROFILE"
-    ],
-    "ai_trends": [
-      {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "summary": "The deal highlights the challenges of developing massive AI data centers.",
-        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
-      },
-      {
-        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-        "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-      },
-      {
-        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-        "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
       }
     ]
   }
