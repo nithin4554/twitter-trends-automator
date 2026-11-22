@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-22",
+    "timestamp": "12:46 PM",
+    "general_trends": [
+      "#豊臣兄弟",
+      "#TLE1stDebut",
+      "夫婦の日",
+      "#MILESixTONES生配信",
+      "#LENAMIUBDParty",
+      "CC優勝",
+      "#TLE_mtm",
+      "ヒーロー名",
+      "k4senさん",
+      "PHUWIN WITH INFINITY",
+      "RAK NA JANJINGJING",
+      "池ちゃん",
+      "PERTH WITH OLAY IN CHIANG MAI",
+      "エルデナリ",
+      "希望の唄"
+    ],
+    "ai_trends": [
+      {
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      },
+      {
+        "title": "A tale of two Nvidias",
+        "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+        "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-21",
     "timestamp": "12:54 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
         "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
         "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-08",
-    "timestamp": "11:26 AM",
-    "general_trends": [
-      "#Vivant",
-      "#氷渡香名江実装決定",
-      "BBS NATHAN",
-      "#PBBCollab3FirstNomi",
-      "#学マス標ファイナル_DAY2",
-      "#ホロ1GP",
-      "DEWTEE FULLY ACTIVATED",
-      "BBS MIKEE",
-      "香名江さん",
-      "エイプリルフール",
-      "Happy Diwali",
-      "ティレノフ",
-      "BBS ETHAN",
-      "SUNa DI NOMINADO JEOLEE",
-      "BBS NICOLE"
-    ],
-    "ai_trends": [
-      {
-        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-        "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
-      },
-      {
-        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
-      },
-      {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "summary": "The deal highlights the challenges of developing massive AI data centers.",
-        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
       }
     ]
   }
