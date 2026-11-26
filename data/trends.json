@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-26",
+    "timestamp": "2:13 PM",
+    "general_trends": [
+      "Happy Thanksgiving",
+      "#ゴールデンラヴィット",
+      "#FoolInLoveEP15",
+      "SO MUCH FOR LOVE",
+      "#OneDxJimmySeaAvocean",
+      "#あなたを沼らせたAぇLIVE",
+      "#BabyBrightXPerthSanta",
+      "PERTHSANTA BBB GLOW MOMENT",
+      "JSCEAN ONEDERFUL FAMILY",
+      "🟥🟥ランダムマスターデッキ",
+      "Jackpot",
+      "風呂の日",
+      "SB19 BISA SA MASA",
+      "Cevdet Yılmaz",
+      "Savior Sant Rampal Ji"
+    ],
+    "ai_trends": [
+      {
+        "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
+        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+      },
+      {
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+      },
+      {
+        "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
+        "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-25",
     "timestamp": "2:48 PM",
     "general_trends": [
@@ -490,44 +528,6 @@
         "title": "Muse can now place calls to US businesses — if you pay",
         "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
         "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-12",
-    "timestamp": "1:05 PM",
-    "general_trends": [
-      "#CTWxKengNampingXmas",
-      "KNP CHRISTMAS AT CENTRALWORLD",
-      "#CTWxTleFirstOneXmas",
-      "#素のまんま",
-      "#GFMegaGaleกับFriendsofGrab",
-      "#TwentyOneSeries",
-      "GF MEGA GALE x FRIENDS",
-      "乗車準備会",
-      "TTP TWINKLE LIGHTS",
-      "東京ドーム公演記念",
-      "YOU MEAN NOTHING NOW",
-      "エグゼイド新作",
-      "メジャーデビュー",
-      "いちごちゃん",
-      "入場者特典"
-    ],
-    "ai_trends": [
-      {
-        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-        "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
-      },
-      {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-      },
-      {
-        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
       }
     ]
   }
