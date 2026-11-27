@@ -1,5 +1,27 @@
 [
   {
+    "date": "2026-11-27",
+    "timestamp": "2:09 PM",
+    "general_trends": [],
+    "ai_trends": [
+      {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+      },
+      {
+        "title": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
+        "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+      },
+      {
+        "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
+        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-26",
     "timestamp": "2:13 PM",
     "general_trends": [
@@ -490,44 +512,6 @@
         "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
         "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
         "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-13",
-    "timestamp": "12:30 PM",
-    "general_trends": [
-      "#それスノ",
-      "#มหาฤกษ์กินดองพ่อครูน้องเขม",
-      "KHEMJIRA THE WEDDING DAY",
-      "#学マス14人目のアイドル",
-      "作法クイズ",
-      "🧹香名江",
-      "ラポスタ",
-      "Microsoft",
-      "Outlook",
-      "#LolaneChinaxORM",
-      "#NamtanFilmFanconD1",
-      "ORM NOURISHING TABLE",
-      "NAMTANFILM GLAM NIGHT",
-      "画像20枚",
-      "THAI NATIVE FIT X PNB"
-    ],
-    "ai_trends": [
-      {
-        "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
-        "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-        "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/"
-      },
-      {
-        "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
-        "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-        "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
-      },
-      {
-        "title": "Muse can now place calls to US businesses — if you pay",
-        "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-        "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
       }
     ]
   }
