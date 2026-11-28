@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-11-28",
+    "timestamp": "1:27 PM",
+    "general_trends": [
+      "#ベストアーティスト2026",
+      "#GMMTVStarlympics2026",
+      "#ザッツすぎて滅",
+      "シャッフルメドレー",
+      "#timelesz_ほんことTV初披露",
+      "#Ni_BUGSLIFE",
+      "接待WISH",
+      "JUMP",
+      "ハニカミ",
+      "ひとりぼっちのハブラシ",
+      "キテレツ",
+      "KNP WITH REGALOS",
+      "JEOLEE OR NO ONE",
+      "PERTHSANTA DOMIIA FAMIGNITE",
+      "スピッツ"
+    ],
+    "ai_trends": [
+      {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+      },
+      {
+        "title": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
+        "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+      },
+      {
+        "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
+        "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+      }
+    ]
+  },
+  {
     "date": "2026-11-27",
     "timestamp": "2:09 PM",
     "general_trends": [],
@@ -474,44 +512,6 @@
         "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
         "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
         "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-      }
-    ]
-  },
-  {
-    "date": "2026-11-14",
-    "timestamp": "11:40 AM",
-    "general_trends": [
-      "ブラジル",
-      "#サッカー日本代表",
-      "ヴィニシウス",
-      "中村敬斗",
-      "#VoyAGEガヤガヤ鑑賞会",
-      "#PBBCollab3FirstEviction",
-      "#山田涼介ANNP",
-      "ザイオン",
-      "久保建英",
-      "久保くん",
-      "スクラッチ",
-      "#イオンブラックフライデー26",
-      "日本先制",
-      "親善試合",
-      "ビニシウス"
-    ],
-    "ai_trends": [
-      {
-        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-        "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-      },
-      {
-        "title": "AI agent startup LangChain hits $3B valuation",
-        "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-      },
-      {
-        "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
-        "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
       }
     ]
   }
